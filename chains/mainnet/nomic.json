@@ -1,0 +1,20 @@
+{
+  "chain_name": "nomic",
+  "api": [ "https://app.nomic.io:8443" ],
+  "rpc": [ "https://nomic-rpc.polkachu.com:443", "https://rpc.nomic.interbloc.org:443", "https://rpc.nomic.bh.rocks:443" ],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.9",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "meme",
+  "logo": "/logos/nomic.png",
+  "assets": [
+    {
+      "base": "unom",
+      "symbol": "NOM",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/nomic.png"
+    }
+  ]
+}
