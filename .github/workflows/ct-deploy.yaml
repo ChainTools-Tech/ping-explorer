@@ -3,7 +3,7 @@ on:
     branches:
       - chaintools
 
-name: Build and Publish Explorer
+name: CT: Build and Publish Explorer
 jobs:
   Build:
     name: Build Explorer
