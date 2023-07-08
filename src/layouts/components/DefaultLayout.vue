@@ -35,7 +35,7 @@ const changeOpen = (index: Number) => {
     sidebarOpen.value = !sidebarOpen.value;
   }
 };
-const showDiscord = window.location.host.search('ping.pub') > -1;
+const showDiscord = window.location.host.search('explorer.chaintools.tech') > -1;
 
 function isNavGroup(nav: VerticalNavItems | any): nav is NavGroup {
    return (<NavGroup>nav).children !== undefined;
