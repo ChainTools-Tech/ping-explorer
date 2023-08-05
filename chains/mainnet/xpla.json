@@ -8,7 +8,7 @@
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "xpla",
   "logo": "/logos/xpla.png",
-  "theme_color": "#ed4e33",
+  "theme_color": "#00ABF6",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
     "base": "axpla",
