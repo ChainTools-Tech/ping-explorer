@@ -1,0 +1,23 @@
+{
+  "chain_name": "mythos",
+  "coingecko": "",
+  "api": [
+    "https://testnet-api.mythos.chaintools.tech"
+  ],
+  "rpc": [
+    "https://testnet-rpc.mythos.chaintools.tech"
+  ],
+  "coin_type": "118",
+  "sdk_version": "0.45.4",
+  "addr_prefix": "mythos",
+  "logo": "/logos/mythos.svg",
+  "assets": [
+    {
+      "base": "amyt",
+      "symbol": "MYT",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "/logos/mythos.svg"
+    }
+  ]
+}
