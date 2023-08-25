@@ -13,13 +13,13 @@
     "assets": [{
         "base": "ungm",
         "symbol": "NGM",
-        "exponent": "6",
+        "exponent": "12",
         "coingecko_id": "emoney", 
         "logo": "/logos/e-money.jpg"
     },{
         "base": "eeur",
         "symbol": "EEUR",
-        "exponent": "6",
+        "exponent": "12",
         "coingecko_id": "e-money-eur", 
         "logo": "/logos/e-money.jpg"
     }]
