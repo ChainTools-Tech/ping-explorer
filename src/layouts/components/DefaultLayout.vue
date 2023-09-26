@@ -18,12 +18,18 @@ import type { NavGroup, NavLink, NavSectionTitle, VerticalNavItems } from '../ty
 const dashboard = useDashboard();
 dashboard.initial();
 const blockchain = useBlockchain();
+blockchain.randomSetupEndpoint();
 
-const current = ref('');
+const current = ref(''); // the current chain
+const temp = ref('')
 blockchain.$subscribe((m, s) => {
+  if(current.value ===s.chainName && temp.value != s.endpoint.address) {
+    temp.value = s.endpoint.address
+    blockchain.initial();
+  }
   if (current.value != s.chainName) {
     current.value = s.chainName;
-    blockchain.initial();
+    blockchain.randomSetupEndpoint();
   }
 });
 
@@ -35,7 +41,7 @@ const changeOpen = (index: Number) => {
     sidebarOpen.value = !sidebarOpen.value;
   }
 };
-const showDiscord = window.location.host.search('explorer.chaintools.tech') > -1;
+const showDiscord = window.location.host.search('ping.pub') > -1;
 
 function isNavGroup(nav: VerticalNavItems | any): nav is NavGroup {
    return (<NavGroup>nav).children !== undefined;
