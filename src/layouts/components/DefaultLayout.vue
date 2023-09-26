@@ -238,7 +238,7 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
         <a
-          href="github.com/ChainTools-Tech"
+          href="https://github.com/ChainTools-Tech"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
