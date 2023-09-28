@@ -1,0 +1,19 @@
+{
+  "chain_name": "passage",
+  "coingecko": "",
+  "api": ["https://rest-passage.ecostake.com"],
+  "rpc": ["https://rpc-passage.ecostake.com"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "pasg",
+  "logo": "/logos/pasg.png",
+  "assets": [{
+    "base": "upasg",
+    "symbol": "PASG",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "/logos/pasg.png"
+  }]
+}
