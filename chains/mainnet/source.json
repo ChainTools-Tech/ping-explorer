@@ -1,7 +1,7 @@
 {
   "chain_name": "source",
-  "api": ["https://api.source.nodestake.top:443","https://carbon-mainnet-lcd.autostake.com:443"],
-  "rpc": ["https://rpc.source.nodestake.top:443","https://carbon-mainnet-rpc.autostake.com:443"],
+  "api": ["https://source.api.moonbridge.team:443","https://api.source.nodestake.top:443"],
+  "rpc": ["https://source.rpc.moonbridge.team:443",,"https://rpc.source.nodestake.top:443"],
   "snapshot_provider": "",
   "sdk_version": "0.45.15",
   "coin_type": "118",
