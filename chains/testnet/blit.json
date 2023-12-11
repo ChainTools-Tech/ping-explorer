@@ -2,10 +2,10 @@
   "chain_name": "blit",
   "coingecko": "",
   "api": [
-    "http://api.testnet.blitchain.net:443"
+    "http://api.testnet.blitchain.net"
   ],
   "rpc": [
-    "http://rpc.testnet.blitchain.net:443"
+    "http://rpc.testnet.blitchain.net"
   ],
   "coin_type": "118",
   "sdk_version": "0.45.11",
