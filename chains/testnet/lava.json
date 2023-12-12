@@ -10,14 +10,14 @@
   "sdk_version": "0.46.7",
   "addr_prefix": "lava",
   "min_tx_fee": "0",
-  "logo": "https://github.com/lavanet/docs/blob/main/static/img/lava_logo.svg",
+  "logo": "/logos/lava.png",
   "assets": [
     {
       "symbol": "LAVA",
       "base": "ulava",
       "exponent": 6,
       "coingecko_id": "elys",
-      "logo": "https://github.com/lavanet/docs/blob/main/static/img/lava_logo.svg"
+      "logo": "/logos/lava.png"
     }
   ]
 }
