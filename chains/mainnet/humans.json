@@ -1,7 +1,7 @@
 {
   "chain_name": "humans",
-  "api": ["https://rpc.humans.nodestake.top:443", "https://humans-rpc.staketab.org:443"],
-  "rpc": ["https://api.humans.nodestake.top:443", "https://humans-rest.staketab.org:443"],
+  "api": ["https://rest.cosmos.directory/humans","https://rpc.humans.nodestake.top:443", "https://humans-rpc.staketab.org:443"],
+  "rpc": ["https://rpc.cosmos.directory/humans","https://api.humans.nodestake.top:443", "https://humans-rest.staketab.org:443"],
   "snapshot_provider": "",
   "sdk_version": "0.46.11",
   "coin_type": "60",
