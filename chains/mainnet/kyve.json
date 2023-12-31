@@ -7,12 +7,12 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "kyve",
-  "logo": "/logos/kyve.png",
+  "logo": "/logos/kyve.svg",
   "assets": [{
     "base": "ukyve",
     "symbol": "KYVE",
     "exponent": "6",
     "coingecko_id": "kyve-network",
-    "logo": "/logos/kyve.png"
+    "logo": "/logos/kyve.svg"
   }]
 }
