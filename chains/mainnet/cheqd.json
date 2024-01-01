@@ -10,9 +10,9 @@
   "theme_color": "#9D3120",
   "sdk_version": "0.46.10",
   "assets": [{
-    "base": "ucheq",
+    "base": "ncheq",
     "symbol": "CHEQ",
-    "exponent": "6",
+    "exponent": "9",
     "coingecko_id": "cheqd-network",
     "logo": "/logos/cheqd.png"
   }]
