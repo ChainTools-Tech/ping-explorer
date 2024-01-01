@@ -8,11 +8,12 @@
     "min_tx_fee": "3000",
     "addr_prefix": "decentr",
     "logo": "/logos/decentr.png",
+    "theme_color": "#81C6C5",
     "assets": [{
         "base": "udec",
         "symbol": "DEC",
         "exponent": "6",
-        "coingecko_id": "decentr", 
+        "coingecko_id": "decentr",
         "logo": "/logos/decentr.png"
     }]
 }

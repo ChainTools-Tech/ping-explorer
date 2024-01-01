@@ -8,11 +8,12 @@
     "min_tx_fee": "3000",
     "addr_prefix": "ixo",
     "logo": "/logos/ixo.svg",
+    "theme_color": "#5FCFFA",
     "assets": [{
         "base": "uixo",
         "symbol": "IXO",
         "exponent": "6",
-        "coingecko_id": "ixo", 
+        "coingecko_id": "ixo",
         "logo": "/logos/ixo.svg"
     }]
 }

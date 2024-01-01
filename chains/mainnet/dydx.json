@@ -8,6 +8,7 @@
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "dydx",
   "logo": "/logos/dydx.png",
+  "theme_color": "#3E3C89",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
     "base": "adydx",

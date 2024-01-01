@@ -8,6 +8,7 @@
     "min_tx_fee": "5000",
     "addr_prefix": "darc",
     "logo": "https://avatars.githubusercontent.com/u/47561122?v=4",
+    "theme_color": "#29405F",
     "assets": [{
         "base": "udarc",
         "symbol": "DARC",

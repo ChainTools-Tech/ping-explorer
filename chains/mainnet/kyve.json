@@ -8,6 +8,7 @@
   "min_tx_fee": "8000",
   "addr_prefix": "kyve",
   "logo": "/logos/kyve.svg",
+  "theme_color": "#303D3E",
   "assets": [{
     "base": "ukyve",
     "symbol": "KYVE",

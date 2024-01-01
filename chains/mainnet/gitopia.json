@@ -9,6 +9,7 @@
     "min_tx_fee": "3000",
     "addr_prefix": "gitopia",
     "logo": "/logos/gitopia.png",
+    "theme_color": "#371B66",
     "assets": [{
         "base": "ulore",
         "symbol": "LORE",

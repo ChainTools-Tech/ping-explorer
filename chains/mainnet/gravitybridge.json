@@ -9,11 +9,12 @@
     "addr_prefix": "gravity",
     "excludes": "",
     "logo": "/logos/gravity-bridge.png",
+    "theme_color": "#0E021C",
     "assets": [{
         "base": "ugraviton",
         "symbol": "GRAVITON",
         "exponent": "6",
-        "coingecko_id": "graviton", 
+        "coingecko_id": "graviton",
         "logo": "/logos/gravity-bridge.png"
     }]
 }

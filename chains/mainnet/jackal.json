@@ -16,6 +16,7 @@
     "sdk_version": "0.45.11",
     "addr_prefix": "jkl",
     "logo": "/logos/jackal.png",
+    "theme_color": "#0A1E48",
     "assets": [
         {
             "base": "ujkl",
