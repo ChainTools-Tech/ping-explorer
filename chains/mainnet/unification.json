@@ -10,6 +10,7 @@
   "min_tx_fee": "25000000000000000",
   "addr_prefix": "und",
   "logo": "/logos/unification.png",
+  "theme_color": "#0089CD",
   "assets": [{
     "base": "nund",
     "symbol": "FUND",

@@ -9,6 +9,7 @@
     "min_tx_fee": "800000000",
     "addr_prefix": "pb",
     "logo": "/logos/provenance.svg",
+    "theme_color": "#4B7BD4",
     "assets": [{
         "base": "nhash",
         "symbol": "HASH",

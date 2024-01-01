@@ -16,6 +16,7 @@
     "sdk_version": "0.45.9",
     "addr_prefix": "migaloo",
     "logo": "/logos/migaloo.png",
+    "theme_color": "#3AC660",
     "assets": [
         {
             "base": "uwhale",

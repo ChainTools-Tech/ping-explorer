@@ -9,6 +9,7 @@
   "min_tx_fee": "8000",
   "addr_prefix": "meme",
   "logo": "/logos/meme.png",
+  "theme_color": "#A7D9CD",
   "assets": [
     {
       "base": "umeme",

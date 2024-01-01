@@ -9,6 +9,7 @@
     "min_tx_fee": "500",
     "addr_prefix": "centauri",
     "logo": "/logos/composable.jpg",
+    "theme_color": "#664D75",
     "assets": [{
         "base": "ppica",
         "symbol": "PICA",

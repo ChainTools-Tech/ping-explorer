@@ -8,6 +8,7 @@
   "min_tx_fee": "5000",
   "addr_prefix": "source",
   "logo": "/logos/source.svg",
+  "theme_color": "#A73FF3",
   "assets": [{
     "base": "usource",
     "symbol": "SOURCE",

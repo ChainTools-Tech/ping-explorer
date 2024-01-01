@@ -19,6 +19,7 @@
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "acre",
   "logo": "/logos/acre.jpg",
+  "theme_color": "#529573",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "keplr_price_step": {
     "low": 0,

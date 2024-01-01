@@ -9,6 +9,7 @@
     "min_tx_fee": "3000",
     "addr_prefix": "omniflix",
     "logo": "/logos/omniflix.png",
+    "theme_color": "#CC1C64",
     "assets": [{
         "base": "uflix",
         "symbol": "FLIX",

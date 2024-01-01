@@ -8,6 +8,7 @@
   "min_tx_fee": "8000",
   "addr_prefix": "tgrade",
   "logo": "/logos/tgrade.png",
+  "theme_color": "#BA1779",
   "assets": [{
     "base": "utgd",
     "symbol": "TGD",

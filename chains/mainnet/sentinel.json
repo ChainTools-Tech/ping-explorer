@@ -8,6 +8,7 @@
     "min_tx_fee": "8000",
     "addr_prefix": "sent",
     "logo": "/logos/sentinel.png",
+    "theme_color": "#0F9AE4",
     "assets": [{
         "base": "udvpn",
         "symbol": "DVPN",

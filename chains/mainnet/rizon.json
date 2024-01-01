@@ -5,6 +5,7 @@
     "sdk_version": "v0.45.6",
     "coin_type": "118",
     "min_tx_fee": "8000",
+    "theme_color": "#2C0E58",
     "assets": [{
         "base": "uatolo",
         "symbol": "ATOLO",

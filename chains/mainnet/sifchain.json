@@ -8,6 +8,7 @@
     "min_tx_fee": "8000",
     "addr_prefix": "sif",
     "logo": "/logos/sifchain.jpeg",
+    "theme_color": "#B89652",
     "assets": [{
         "base": "rowan",
         "symbol": "ROWAN",

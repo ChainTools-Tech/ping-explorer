@@ -5,6 +5,7 @@
     "sdk_version": "v0.45.0",
     "coin_type": "118",
     "min_tx_fee": "8000",
+    "theme_color": "#6B88F6",
     "assets": [{
         "base": "ubnt",
         "symbol": "BNT",

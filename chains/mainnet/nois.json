@@ -6,6 +6,7 @@
   "addr_prefix": "nois",
   "min_tx_fee": "5000",
   "logo": "/logos/nois.png",
+  "theme_color": "#0B0912",
   "assets": [
     {
       "symbol": "NOIS",

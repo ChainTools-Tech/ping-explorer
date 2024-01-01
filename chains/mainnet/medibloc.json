@@ -6,6 +6,7 @@
     "sdk_version": "v0.42.9",
     "coin_type": "118",
     "min_tx_fee": "8000",
+    "theme_color": "#206FE2",
     "assets": [{
         "base": "umed",
         "symbol": "MED",

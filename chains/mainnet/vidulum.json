@@ -9,6 +9,7 @@
     "min_tx_fee": "8000",
     "addr_prefix": "vdl",
     "logo": "/logos/VDL.png",
+    "theme_color": "#2E51B5",
     "assets": [{
         "base": "uvdl",
         "symbol": "VDL",

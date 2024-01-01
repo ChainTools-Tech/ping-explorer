@@ -8,6 +8,7 @@
   "min_tx_fee": "8000",
   "addr_prefix": "meme",
   "logo": "/logos/nomic.png",
+  "theme_color": "#6000F6",
   "assets": [
     {
       "base": "unom",

@@ -8,6 +8,7 @@
   "min_tx_fee": "8000",
   "addr_prefix": "kyve",
   "logo": "/logos/teritori.svg",
+  "theme_color": "#2C93F6",
   "assets": [{
     "base": "utori",
     "symbol": "TORI",
