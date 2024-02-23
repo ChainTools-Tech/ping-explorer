@@ -8,7 +8,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "logo": "/logos/e-money.jpg",
-    "theme_color": "#102F33",
+    "theme_color": "#588682",
     "sdk_version": "0.42.10",
     "excludes": "mint governance",
     "assets": [{

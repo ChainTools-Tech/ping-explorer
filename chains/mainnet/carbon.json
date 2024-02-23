@@ -9,7 +9,7 @@
     "min_tx_fee": "100000000",
     "addr_prefix": "swth",
     "logo": "/logos/carbon.svg",
-    "theme_color": "#063A4C",
+    "theme_color": "#7BD3D5",
     "sign_opts": {
         "keplr": {
             "preferNoSetFee": true
