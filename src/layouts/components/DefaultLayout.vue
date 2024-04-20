@@ -238,9 +238,6 @@ dayjs()
               Wallet Helper
             </div>
           </RouterLink>
-          <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
-          {{ $t('module.sponsors') }}
-        </div>
         <a
           href="https://osmosis.zone"
           target="_blank"
