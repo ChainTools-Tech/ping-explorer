@@ -13,6 +13,7 @@ import { post } from '@/libs';
 import { JsonViewer } from "vue3-json-viewer"
 // if you used v1.0.5 or latster ,you should add import "vue3-json-viewer/dist/index.css"
 import "vue3-json-viewer/dist/index.css";
+import WasmVerification from '@/components/WasmVerification.vue';
 
 const chainStore = useBlockchain();
 const baseStore = useBaseStore();
@@ -34,6 +35,20 @@ const selected = ref('');
 const balances = ref({} as PaginatedBalances)
 
 const contractAddress = String(route.query.contract)
+
+const history = JSON.parse(localStorage.getItem("contract_history") || "{}")
+
+if(history[chainStore.chainName]) {
+    if(!history[chainStore.chainName].includes(contractAddress)) {
+        history[chainStore.chainName].push(contractAddress)
+        if(history[chainStore.chainName].length > 10) {
+            history[chainStore.chainName].shift()
+        }
+    }
+} else {
+    history[chainStore.chainName] = [contractAddress]
+}
+localStorage.setItem("contract_history", JSON.stringify(history))
 
 onMounted(() => {
     const address = contractAddress
@@ -136,7 +151,7 @@ const result = ref({});
         </div>
 
         <div class="text-center mb-4">
-            <RouterLink to="contracts"><span class="btn btn-xs text-xs mr-2"> Back </span> </RouterLink>
+            <RouterLink :to="`../${info.code_id}/contracts`"><span class="btn btn-xs text-xs mr-2"> Back </span> </RouterLink>
             <label @click="showFunds()" for="modal-contract-funds" class="btn btn-primary btn-xs text-xs mr-2">{{
                 $t('cosmwasm.btn_funds') }}</label>
             <label class="btn btn-primary btn-xs text-xs mr-2" for="modal-contract-states" @click="showState()">
@@ -168,9 +183,9 @@ const result = ref({});
         </div>
 
         <div class="bg-base-100 px-4 pt-3 pb-4 rounded mb-4 shadow">
-            <h2 class="card-title truncate w-full mt-4">Transactions</h2>
+            <h2 class="card-title truncate w-full mt-4 mb-2">Transactions</h2>
             <table class="table">
-                <thead>
+                <thead class=" bg-base-200">
                     <tr>
                         <td> {{ $t('ibc.height') }}</td>
                         <td>{{ $t('ibc.txhash') }}</td>
@@ -201,10 +216,7 @@ const result = ref({});
             <PaginationBar :limit="page.limit" :total="txs.pagination?.total" :callback="pageload" />
         </div>
 
-        <div class="bg-base-100 px-4 pt-3 pb-4 rounded mb-4 shadow">
-            <h2 class="card-title truncate w-full mt-4">Verification</h2>
-
-        </div>
+        <WasmVerification :contract="contractAddress"/>
 
         <div>
             <input type="checkbox" id="modal-contract-funds" class="modal-toggle" />
@@ -235,7 +247,7 @@ const result = ref({});
                             <label for="modal-contract-states" class="btn btn-sm btn-circle">✕</label>
                         </div>
                         <div class="overflow-auto">
-                            <JsonViewer :value="state.models?.map(v => ({key: format.hexToString(v.key), value: JSON.parse(format.base64ToString(v.value))}))" :theme="baseStore.theme" style="background: transparent;" copyable boxed sort :expand-depth="5"/>
+                            <JsonViewer :value="state.models?.map(v => ({key: format.hexToString(v.key), value: JSON.parse(format.base64ToString(v.value))}))||''" :theme="baseStore.theme||'dark'" style="background: transparent;" copyable boxed sort :expand-depth="5"/>
                             <PaginationBar :limit="pageRequest.limit" :total="state.pagination?.total"
                                 :callback="pageloadState" />
                         </div>

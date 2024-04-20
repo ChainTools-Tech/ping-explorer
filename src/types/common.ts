@@ -36,6 +36,9 @@ export class PageRequest {
     setPage(page: number) {
         if(page >= 1) this.offset = (page - 1) * this.limit
     }
+    setPageSize(size: number) {
+        this.limit = size
+    }
     
 }
 

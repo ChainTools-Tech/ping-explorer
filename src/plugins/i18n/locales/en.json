@@ -9,6 +9,7 @@
     "state-sync": "State Sync",
     "cosmwasm": "Cosmwasm",
     "widget": "Widgets",
+    "tx": "Transactions",
     "ibc": "IBC",
     "nft": "NFT",
     "consensus": "Consensus",
@@ -30,6 +31,7 @@
     "description": "Cosmos Ecosystem Blockchains 🚀",
     "search_placeholder": "Search Chain",
     "description_all": "We couldn't find the page you are looking for.",
+    "out_of_sync": "The latest block was produced at ",
     "btn_index": "Back to Home"
   },
   "account": {
@@ -127,7 +129,8 @@
     "contract_balances": "Contract Balances",
     "no_escrowed_assets": "No Escrowed Assets",
     "contract_states": "Contract States",
-    "query_contract": "Query Contract"
+    "query_contract": "Query Contract",
+    "tips_description_1": "This feature is available when deploying contracts via WELLDONE Code. For more information, please check the document at the link below."
   },
   "gov": {
     "voting": "Voting",
@@ -265,7 +268,11 @@
     "signed_blocks": "Signed Blocks",
     "missing_blocks": "Missing Blocks",
     "add_validators": "Add Validators",
-    "add": "Add"
+    "add": "Add",
+    "legend": "Legend",
+    "committed": "Committed",
+    "precommitted": "Precommitted",
+    "missed": "Missed"
   },
   "widget": {
     "title": "Initial Setting",
