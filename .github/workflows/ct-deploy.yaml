@@ -13,7 +13,7 @@ jobs:
         run:  export NODE_OPTIONS="--max_old_space_size=4096"
 
       - name: Checkout ChainTools Branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: chaintools
 
