@@ -15,8 +15,8 @@
   "theme_color": "#45C1F0",
   "assets": [
     {
-      "base": "utmotus",
-      "symbol": "TMOTUS",
+      "base": "utsoar",
+      "symbol": "TSOAR",
       "exponent": "6",
       "coingecko_id": "",
       "logo": "/logos/soarchain.png"
