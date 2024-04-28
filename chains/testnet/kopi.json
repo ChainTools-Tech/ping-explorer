@@ -1,6 +1,5 @@
 {
   "chain_name": "Kopi",
-  "coingecko": "kopi",
   "api": ["https://testnet-api.kopi.chaintools.tech"],
   "rpc": ["https://testnet-rpc.kopi.chaintools.tech"],
   "snapshot_provider": "",
@@ -13,7 +12,6 @@
     "base": "ukopi",
     "symbol": "KOPI",
     "exponent": "6",
-    "coingecko_id": "kava",
     "logo": "/logos/kopi.png"
   }]
 }
