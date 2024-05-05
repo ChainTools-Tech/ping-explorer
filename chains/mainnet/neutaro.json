@@ -1,0 +1,22 @@
+{
+  "chain_name": "neutaro",
+  "coingecko": "neutaro",
+  "api": [ "https://api2.neutaro.tech:443", "https://api-neutaro.blockval.io" ],
+  "rpc": [ "https://rpc2.neutaro.tech:443", "https://rpc-neutaro.blockval.io" ],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.6",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "neutaro",
+  "logo": "/logos/neutaro.png",
+  "theme_color": "#C3F305",
+  "assets": [
+    {
+      "base": "uneutaro",
+      "symbol": "NEUTARO",
+      "exponent": "6",
+      "coingecko_id": "neutaro",
+      "logo": "/logos/neutaro.png"
+    }
+  ]
+}
