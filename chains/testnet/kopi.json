@@ -1,7 +1,7 @@
 {
   "chain_name": "Kopi",
-  "api": ["https://testnet-api.kopi.chaintools.tech"],
-  "rpc": ["https://testnet-rpc.kopi.chaintools.tech"],
+  "api": ["https://rest.test.kopi.money","https://testnet-api.kopi.chaintools.tech"],
+  "rpc": ["https://rpc.test.kopi.money","https://testnet-rpc.kopi.chaintools.tech"],
   "snapshot_provider": "",
   "sdk_version": "0.45.4",
   "coin_type": "118",
