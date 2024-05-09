@@ -1,0 +1,18 @@
+{
+  "chain_name": "Structs",
+  "api": ["https://testnet-api.structs.chaintools.tech"],
+  "rpc": ["https://testnet-rpc.structs.chaintools.tech"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "structs",
+  "logo": "/logos/structs.png",
+  "theme_color": "#AD1760",
+  "assets": [{
+    "base": "alpha",
+    "symbol": "ALPHA",
+    "exponent": "6",
+    "logo": "/logos/structs.png"
+  }]
+}
