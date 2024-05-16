@@ -1,9 +1,11 @@
 {
   "chain_name": "ojo-devnet-1",
   "api": [
+    "https://testnet-api.ojo.chaintools.tech:443",
     "https://api-1.ojo.nodes.guru:443"
   ],
   "rpc": [
+    "https://testnet-rpc.ojo.chaintools.tech:443",
     "https://rpc-1.ojo.nodes.guru:443"
   ],
   "snapshot_provider": "",
