@@ -1,8 +1,8 @@
 {
     "chain_name": "e-money",
     "coingecko": "e-money",
-    "api": "https://api.emoney.bh.rocks:443",
-    "rpc": "https://rpc.emoney.bh.rocks:443",
+    "api": "https://api-emoney-ia.cosmosia.notional.ventures:443",
+    "rpc": "https://rpc-emoney-ia.cosmosia.notional.ventures:443",
     "snapshot_provider": "",
     "addr_prefix": "emoney",
     "coin_type": "118",
