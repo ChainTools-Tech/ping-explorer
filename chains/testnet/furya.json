@@ -20,6 +20,13 @@
       "exponent": "6",
       "coingecko_id": "",
       "logo": "/logos/furya.png"
+    },
+    {
+      "base": "bfury",
+      "symbol": "bFURY",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/furya.png"
     }
   ]
 }
