@@ -9,7 +9,7 @@
   ],
   "snapshot_provider": "",
   "coin_type": "118",
-  "sdk_version": "0.46.8",
+  "sdk_version": "0.47.8",
   "addr_prefix": "furya",
   "logo": "/logos/furya.png",
   "theme_color": "#E2E841",
@@ -26,7 +26,8 @@
       "symbol": "bFURY",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "/logos/furya.png"
+      "logo": "/logos/furya.png",
+      "stakeable": true
     }
   ]
 }
