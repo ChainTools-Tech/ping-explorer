@@ -1,7 +1,7 @@
 {
   "chain_name": "starname",
-  "api": ["https://api.starname.cosmos.iov.one", "https://api-starname-ia.cosmosia.notional.ventures"],
-  "rpc": ["https://rpc.starname.cosmos.iov.one", "https://rpc-starname-ia.cosmosia.notional.ventures/"],
+  "api": ["https://rest.starname.app", "https://api.starname.cosmos.iov.one"],
+  "rpc": ["https://rpc.starname.app", "https://rpc.starname.cosmos.iov.one"],
   "snapshot_provider": "",
   "sdk_version": "0.45.0",
   "coin_type": "234",
