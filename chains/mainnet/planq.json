@@ -11,8 +11,8 @@
   "theme_color": "#07B5B6",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
-    "base": "aplq",
-    "symbol": "plq",
+    "base": "aplanq",
+    "symbol": "planq",
     "exponent": "18",
     "coingecko_id": "planq",
     "logo": "/logos/planq.png"
