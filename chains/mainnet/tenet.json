@@ -1,0 +1,34 @@
+{
+  "chain_name": "tenet",
+  "coingecko": "tenet-1b000f7b-59cb-4e06-89ce-d62b32d362b9",
+  "api":[
+    "https://app.rpc.tenet.org",
+    "https://tenet_mainnet_api.chain.whenmoonwhenlambo.money",
+    "https://tenet-rest.publicnode.com"
+  ],
+  "rpc":[
+    "https://tendermint-1.rpc.tenet.org",
+    "https://tenet_mainnet_rpc.chain.whenmoonwhenlambo.money",
+    "https://tenet-rpc.publicnode.com:443"
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.9",
+  "coin_type": 60,
+  "min_tx_fee": "5000000000000000",
+  "addr_prefix": "tenet",
+  "logo": "/logos/tenet.png",
+  "theme_color": "#5C4685",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "keplr_price_step": {
+    "low": 0,
+    "average": 25000000000,
+    "high": 40000000000
+  },
+  "assets": [{
+    "base": "atenet",
+    "symbol": "TENET",
+    "exponent": 18,
+    "coingecko_id": "tenet-1b000f7b-59cb-4e06-89ce-d62b32d362b9",
+    "logo": "/logos/tenet.png"
+  }]
+}
