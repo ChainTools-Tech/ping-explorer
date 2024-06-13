@@ -1,8 +1,8 @@
 {
   "chain_name": "odin",
   "coingecko": "odin-protocol",
-  "rpc": ["https://rpc.odinprotocol.io/","https://odin-rpc.lavenderfive.com","https://odin-mainnet-rpc.autostake.com"],
-  "api": ["https://api.odinprotocol.io/","https://odin-api.lavenderfive.com","https://odin-mainnet-lcd.autostake.com"],
+  "rpc": ["https://rpc.odinprotocol.io/","https://odin.rpc.m.stavr.tech:443","https://odin-mainnet-rpc.autostake.com"],
+  "api": ["https://api.odinprotocol.io/","https://odin.api.m.stavr.tech:443","https://odin-mainnet-lcd.autostake.com"],
   "sdk_version": "0.45.14",
   "addr_prefix": "odin",
   "min_tx_fee": "500000",
