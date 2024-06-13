@@ -11,8 +11,8 @@
   "assets": [
     {
       "symbol": "ORAI",
-      "base": "uorai",
-      "exponent": 6,
+      "base": "orai",
+      "exponent": 0,
       "coingecko": "oraichain-token",
       "logo": "/logos/oraichain.png"
     }
