@@ -11,8 +11,8 @@
         "symbol": "DYS",
         "exponent": "0",
         "coingecko_id": "",
-        "logo": "https://dys.dysonprotocol.com/static/dys-inverted.svg"
+        "logo": "/logos/dyson-protocol.png"
     }],
     "addr_prefix": "dys",
-    "logo": "https://dys.dysonprotocol.com/static/dys-inverted.svg"
+    "logo": "/logos/dyson-protocol.png"
 }
