@@ -1,6 +1,6 @@
 {
   "chain_name": "passage",
-  "coingecko": "",
+  "coingecko": "passage",
   "api": ["https://rest-passage.ecostake.com"],
   "rpc": ["https://rpc-passage.ecostake.com"],
   "snapshot_provider": "",
@@ -14,7 +14,7 @@
     "base": "upasg",
     "symbol": "PASG",
     "exponent": "6",
-    "coingecko_id": "",
+    "coingecko_id": "passage",
     "logo": "/logos/pasg.png"
   }]
 }
