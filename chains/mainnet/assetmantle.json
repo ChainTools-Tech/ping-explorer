@@ -1,5 +1,5 @@
 {
-  "chain_name": "bitcanna",
+  "chain_name": "assetmantle",
   "coingecko": "assetmantle",
   "api": ["https://rpc.assetmantle.one","https://rpc-assetmantle.ecostake.com"],
   "rpc": ["https://rest.assetmantle.one","https://rest-assetmantle.ecostake.com"],
