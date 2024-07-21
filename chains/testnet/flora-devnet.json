@@ -1,7 +1,7 @@
 {
-  "chain_name": "Flora",
-  "api": ["https://testnet-api.flora.chaintools.tech"],
-  "rpc": ["https://testnet-rpc.flora.chaintools.tech"],
+  "chain_name": "Flora Devnet",
+  "api": ["https://devnet-api.flora.chaintools.tech"],
+  "rpc": ["https://devnet-rpc.flora.chaintools.tech"],
   "snapshot_provider": "",
   "sdk_version": "0.45.4",
   "coin_type": "118",
