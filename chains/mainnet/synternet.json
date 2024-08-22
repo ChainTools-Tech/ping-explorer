@@ -8,7 +8,7 @@
   "min_tx_fee": "8000",
   "addr_prefix": "synt",
   "logo": "/logos/synt.png",
-  "theme_color": "#272d45",
+  "theme_color": "#D416A2",
   "assets": [{
     "base": "usynt",
     "symbol": "SYNT",
