@@ -1,5 +1,5 @@
 {
-    "chain_name": "fetchhub",
+    "chain_name": "Artificial Superintelligence Alliance",
     "api": ["https://rest-fetchhub.fetch.ai"],
     "rpc": ["https://rpc-fetchhub.fetch.ai:443", "https://rpc-fetchhub.fetch.ai:443"],
     "snapshot_provider": "",
