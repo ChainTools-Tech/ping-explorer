@@ -1,0 +1,27 @@
+{
+  "chain_name": "Joltify",
+  "coingecko": "joltify",
+  "api": [
+    "https://lcd.joltify.io:443",
+    "https://joltify_mainnet_api.chain.whenmoonwhenlambo.money"
+  ],
+  "rpc": [
+    "https://rpc.joltify.io:443",
+    "https://joltify_mainnet_rpc.chain.whenmoonwhenlambo.money"
+  ],
+  "snapshot_provider": "",
+  "coin_type": "118",
+  "sdk_version": "0.46.8",
+  "addr_prefix": "jolt",
+  "logo": "/logos/jolt.png",
+  "theme_color": "#2EF3D0",
+  "assets": [
+    {
+      "base": "ujolt",
+      "symbol": "JOLT",
+      "exponent": "6",
+      "coingecko_id": "joltify",
+      "logo": "/logos/jolt.png"
+    }
+  ]
+}
