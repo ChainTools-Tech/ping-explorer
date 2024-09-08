@@ -1,7 +1,7 @@
 {
     "chain_name": "dyson-protocol",
-    "api": ["https://dyson-api.cogwheel.zone:443"],
-    "rpc": ["https://dyson-rpc.cogwheel.zone:443"],
+    "api": ["https://dys-api.dysonprotocol.com:443","https://dyson-api.cogwheel.zone:443"],
+    "rpc": ["https://dys-tm.dysonprotocol.com:443","https://dyson-rpc.cogwheel.zone:443"],
     "sdk_version": "0.46.7",
     "coin_type": "118",
     "min_tx_fee": "10",
