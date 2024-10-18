@@ -2,7 +2,6 @@
     "chain_name": "cosmos",
     "registry_name": "cosmoshub",
     "api": [
-        {"provider": "notional", "address": "https://api-cosmoshub-ia.cosmosia.notional.ventures"},
         {"provider": "blockapsis", "address": "https://lcd-cosmoshub.blockapsis.com:443"},
         {"provider": "WhisperNode🤐", "address": "https://lcd-cosmoshub.whispernode.com:443"},
         {"provider": "pupmos", "address": "https://api-cosmoshub.pupmos.network"},
