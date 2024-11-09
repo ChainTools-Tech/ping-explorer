@@ -1,0 +1,23 @@
+{
+  "chain_name": "blit",
+  "coingecko": "",
+  "api": [
+    "https://testnet-api.blit.chaintools.tech:443"
+  ],
+  "rpc": [
+    "https://testnet-rpc.blit.chaintools.tech:443"
+  ],
+  "coin_type": "118",
+  "sdk_version": "0.45.11",
+  "addr_prefix": "blit",
+  "logo": "",
+  "assets": [
+    {
+      "base": "ublit",
+      "symbol": "BLIT",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ]
+}

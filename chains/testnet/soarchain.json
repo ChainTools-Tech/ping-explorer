@@ -1,0 +1,25 @@
+{
+  "chain_name": "SoarChain",
+  "coingecko": "",
+  "api": [
+    "https://rpc1.testnet.soarchain.com:443/api"
+  ],
+  "rpc": [
+    "https://rpc1.testnet.soarchain.com:443"
+  ],
+  "snapshot_provider": "",
+  "coin_type": "118",
+  "sdk_version": "0.46.8",
+  "addr_prefix": "soar",
+  "logo": "/logos/soarchain.png",
+  "theme_color": "#45C1F0",
+  "assets": [
+    {
+      "base": "utsoar",
+      "symbol": "TSOAR",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/soarchain.png"
+    }
+  ]
+}

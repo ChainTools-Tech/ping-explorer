@@ -1,0 +1,27 @@
+{
+    "chain_name": "e-money",
+    "coingecko": "e-money",
+    "api": "https://api.emoney.chaintools.tech:443",
+    "rpc": "https://rpc.emoney.chaintools.tech:443",
+    "snapshot_provider": "",
+    "addr_prefix": "emoney",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "logo": "/logos/e-money.jpg",
+    "theme_color": "#588682",
+    "sdk_version": "0.42.10",
+    "excludes": "mint governance",
+    "assets": [{
+        "base": "ungm",
+        "symbol": "NGM",
+        "exponent": "6",
+        "coingecko_id": "emoney",
+        "logo": "/logos/e-money.jpg"
+    },{
+        "base": "eeur",
+        "symbol": "EEUR",
+        "exponent": "6",
+        "coingecko_id": "e-money-eur",
+        "logo": "/logos/e-money.jpg"
+    }]
+}

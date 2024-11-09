@@ -1,0 +1,21 @@
+{
+  "chain_name": "nomic",
+  "api": [ "https://api.nomic.chaintools.tech"],
+  "rpc": [ "https://rpc.nomic.chaintools.tech"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.9",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "meme",
+  "logo": "/logos/nomic.png",
+  "theme_color": "#6000F6",
+  "assets": [
+    {
+      "base": "unom",
+      "symbol": "NOM",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/nomic.png"
+    }
+  ]
+}

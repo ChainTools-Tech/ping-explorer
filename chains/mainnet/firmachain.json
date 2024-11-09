@@ -1,0 +1,18 @@
+{
+    "chain_name": "firmachain",
+    "api": ["https://lcd-mainnet.firmachain.dev:1317"],
+    "rpc": ["https://lcd-mainnet.firmachain.dev:26657"],
+    "sdk_version": "v0.44.5",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "theme_color": "#1D1D1B",
+    "assets": [{
+        "base": "ufct",
+        "symbol": "FCT",
+        "exponent": "6",
+        "coingecko_id": "firmachain",
+        "logo": "https://github.com/FirmaChain/chain-registry/raw/master/firmachain/images/fct.svg"
+    }],
+    "addr_prefix": "firma",
+    "logo": "https://github.com/FirmaChain/chain-registry/raw/master/firmachain/images/fct.svg"
+}

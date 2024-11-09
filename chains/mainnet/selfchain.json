@@ -1,0 +1,20 @@
+{
+  "chain_name": "SelfChain",
+  "coingecko": "self-chain",
+  "api": ["https://selfchain.api.m.stavr.tech:443","https://api.selfchain.io","https://api.selfchain.roomit.xyz"],
+  "rpc": ["https://selfchain_mainnet_rpc.chain.whenmoonwhenlambo.money:443","https://rpc.selfchain.io:26657","https://rpc.selfchain.roomit.xyz"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "slf",
+  "logo": "/logos/self.png",
+  "theme_color": "#995DE5",
+  "assets": [{
+    "base": "uslf",
+    "symbol": "SLF",
+    "exponent": "6",
+    "coingecko_id": "self-chain",
+    "logo": "/logos/self.png"
+  }]
+}

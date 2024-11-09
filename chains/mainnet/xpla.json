@@ -1,0 +1,20 @@
+{
+  "chain_name": "xpla",
+  "api": ["https://dimension-lcd.xpla.dev","https://xpla-api.lavenderfive.com:443"],
+  "rpc": ["https://dimension-rpc.xpla.dev","https://xpla-rpc.lavenderfive.com:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.9",
+  "coin_type": "60",
+  "min_tx_fee": "5000000000000000",
+  "addr_prefix": "xpla",
+  "logo": "/logos/xpla.png",
+  "theme_color": "#00ABF6",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "assets": [{
+    "base": "axpla",
+    "symbol": "xpla",
+    "exponent": "18",
+    "coingecko_id": "xpla",
+    "logo": "/logos/xpla.png"
+  }]
+}

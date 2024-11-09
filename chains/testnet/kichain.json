@@ -1,0 +1,17 @@
+{
+  "chain_name": "KiChain",
+  "api": "https://testnet-api.kichain.chaintools.tech",
+  "rpc": "https://testnet-rpc.kichain.chaintools.tech",
+  "sdk_version": "v0.44.3",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "assets": [{
+    "base": "utki",
+    "symbol": "TKI",
+    "exponent": "6",
+    "coingecko_id": "ki",
+    "logo": "/logos/kichain.png"
+  }],
+  "addr_prefix": "tki",
+  "logo": "/logos/kichain.png"
+}

@@ -1,0 +1,20 @@
+{
+  "chain_name": "story",
+  "coingecko": "",
+  "api": ["https://testnet-api.story.chaintools.tech:443"],
+  "rpc": ["https://testnet-rpc.story.chaintools.tech:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.1",
+  "coin_type": "60",
+  "min_tx_fee": "3000000000000000",
+  "addr_prefix": "story",
+  "logo": "/logos/story.png",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "assets": [{
+    "base": "api",
+    "symbol": "PI",
+    "exponent": "18",
+    "coingecko_id": "",
+    "logo": "/logos/story.png"
+  }]
+}

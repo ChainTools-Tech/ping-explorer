@@ -1,0 +1,18 @@
+{
+  "chain_name": "Flora Devnet",
+  "api": ["https://devnet-api.flora.chaintools.tech"],
+  "rpc": ["https://devnet-rpc.flora.chaintools.tech"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "flrd",
+  "logo": "/logos/flora.png",
+  "theme_color": "#66907D",
+  "assets": [{
+    "base": "uflrd",
+    "symbol": "FLRD",
+    "exponent": "6",
+    "logo": "/logos/flora.png"
+  }]
+}

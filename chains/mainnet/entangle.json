@@ -1,0 +1,21 @@
+{
+  "chain_name": "entangle",
+  "coingecko_id": "entangle",
+  "api": ["https://entangle-mainnet.api.stakevillage.net"],
+  "rpc": ["https://entangle-mainnet.rpc.stakevillage.net"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.2",
+  "coin_type": "60",
+  "min_tx_fee": "5000000000000000",
+  "addr_prefix": "ent",
+  "logo": "/logos/entangle.svg",
+  "theme_color": "#A528E1",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "assets": [{
+    "base": "ngl",
+    "symbol": "NGL",
+    "exponent": 18,
+    "coingecko_id": "entangle",
+    "logo": "/logos/entangle.svg"
+  }]
+}

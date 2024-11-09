@@ -1,0 +1,20 @@
+{
+    "chain_name": "lum-network",
+    "coingecko": "lum-network",
+    "api": ["https://lumnetwork-api.lavenderfive.com","https://node0.mainnet.lum.network/rest"],
+    "rpc": ["https://lumnetwork-rpc.lavenderfive.com:443","https://node0.mainnet.lum.network:443/rpc"],
+    "snapshot_provider": "",
+    "sdk_version": "0.44.5",
+    "coin_type": "880",
+    "min_tx_fee": "5000",
+    "addr_prefix": "lum",
+    "logo": "/logos/lum-network.png",
+    "theme_color": "#B3B3B3",
+    "assets": [{
+        "base": "ulum",
+        "symbol": "LUM",
+        "exponent": "6",
+        "coingecko_id": "lum-network", 
+        "logo": "/logos/lum-network.png"
+    }]
+}

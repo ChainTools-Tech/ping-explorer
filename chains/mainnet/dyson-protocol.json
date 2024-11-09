@@ -1,0 +1,18 @@
+{
+    "chain_name": "dyson-protocol",
+    "api": ["https://dys-api.dysonprotocol.com:443","https://dyson-api.cogwheel.zone:443"],
+    "rpc": ["https://dys-tm.dysonprotocol.com:443","https://dyson-rpc.cogwheel.zone:443"],
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "10",
+    "theme_color": "#75FB4C",
+    "assets": [{
+        "base": "dys",
+        "symbol": "DYS",
+        "exponent": "0",
+        "coingecko_id": "",
+        "logo": "/logos/dyson-protocol.png"
+    }],
+    "addr_prefix": "dys",
+    "logo": "/logos/dyson-protocol.png"
+}

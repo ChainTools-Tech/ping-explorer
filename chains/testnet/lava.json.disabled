@@ -1,0 +1,23 @@
+{
+  "chain_name": "lava",
+  "api": [
+    "https://public-rpc.lavanet.xyz/rest"
+  ],
+  "rpc": [
+    "https://public-rpc.lavanet.xyz"
+  ],
+  "coin_type": "118",
+  "sdk_version": "0.46.7",
+  "addr_prefix": "lava",
+  "min_tx_fee": "0",
+  "logo": "/logos/lava.png",
+  "assets": [
+    {
+      "symbol": "LAVA",
+      "base": "ulava",
+      "exponent": 6,
+      "coingecko_id": "elys",
+      "logo": "/logos/lava.png"
+    }
+  ]
+}

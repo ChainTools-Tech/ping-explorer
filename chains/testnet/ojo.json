@@ -1,0 +1,24 @@
+{
+  "chain_name": "ojo-devnet-1",
+  "api": [
+    "https://testnet-api.ojo.chaintools.tech:443",
+    "https://api-1.ojo.nodes.guru:443"
+  ],
+  "rpc": [
+    "https://testnet-rpc.ojo.chaintools.tech:443",
+    "https://rpc-1.ojo.nodes.guru:443"
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.2",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "ojo",
+  "logo": "/logos/ojo.png",
+  "assets": [{
+    "base": "uojo",
+    "symbol": "OJO",
+    "exponent": "6",
+    "coingecko_id": "ojo",
+    "logo": "/logos/ojo.png"
+  }]
+}

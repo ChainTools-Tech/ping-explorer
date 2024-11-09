@@ -1,0 +1,26 @@
+{
+  "chain_name": "terp",
+  "api": ["https://api-terp.zenchainlabs.io:443","https://terp-mainnet-api.itrocket.net:443"],
+  "rpc": ["https://rpc-terp.zenchainlabs.io/","https://terp-mainnet-rpc.itrocket.net:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.10",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "terp",
+  "logo": "/logos/terp.png",
+  "theme_color": "#2C93F6",
+  "assets": [{
+    "base": "uterp",
+    "symbol": "TERP",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "/logos/terp.png"
+  },
+    {
+      "base": "uthiol",
+      "symbol": "THIOL",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/terp.png"
+    }]
+}

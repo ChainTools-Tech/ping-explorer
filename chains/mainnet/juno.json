@@ -1,0 +1,20 @@
+{
+    "chain_name": "juno",
+    "coingecko": "juno-network",
+    "api": ["https://juno-api.polkachu.com", "https://lcd-juno.itastakers.com", "https://rest-juno.goldenratiostaking.net"],
+    "rpc": ["https://juno-rpc.polkachu.com:443", "https://rpc-juno.itastakers.com:443", "https://rpc-juno.itastakers.com:443", "https://rpc-juno.goldenratiostaking.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.8",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "juno",
+    "logo": "/logos/juno.png",
+    "theme_color": "#905651",
+    "assets": [{
+        "base": "ujuno",
+        "symbol": "JUNO",
+        "exponent": "6",
+        "coingecko_id": "juno-network",
+        "logo": "/logos/juno.png"
+    }]
+}

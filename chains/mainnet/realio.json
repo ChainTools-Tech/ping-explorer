@@ -1,0 +1,21 @@
+{
+  "chain_name": "realio",
+  "coingecko_id": "realio-network",
+  "api": ["https://realio.api.m.stavr.tech","https://realio-api.genznodes.dev","https://api.realio.safeblock.space"],
+  "rpc": ["http://realio.rpc.m.stavr.tech:21097","https://realio-rpc.genznodes.dev","https://rpc.realio.safeblock.space"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.2",
+  "coin_type": "60",
+  "min_tx_fee": "5000000000000000",
+  "addr_prefix": "realio",
+  "logo": "/logos/rio.png",
+  "theme_color": "#013739",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "assets": [{
+    "base": "ario",
+    "symbol": "RIO",
+    "exponent": "18",
+    "coingecko_id": "realio-network",
+    "logo": "/logos/rio.png"
+  }]
+}

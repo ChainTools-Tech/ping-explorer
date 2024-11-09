@@ -1,0 +1,20 @@
+{
+  "chain_name": "humans",
+  "api": ["https://rest.cosmos.directory/humans","https://rpc.humans.nodestake.top:443", "https://humans-rpc.staketab.org:443"],
+  "rpc": ["https://rpc.cosmos.directory/humans","https://api.humans.nodestake.top:443", "https://humans-rest.staketab.org:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.11",
+  "coin_type": "60",
+  "min_tx_fee": "5000000000000000",
+  "addr_prefix": "human",
+  "logo": "/logos/humans.jpg",
+  "theme_color": "#24389A",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "assets": [{
+    "base": "aheart",
+    "symbol": "HEART",
+    "exponent": "18",
+    "coingecko_id": "humans-ai",
+    "logo": "/logos/humans.jpg"
+  }]
+}

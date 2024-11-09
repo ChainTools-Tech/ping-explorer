@@ -1,0 +1,19 @@
+{
+  "chain_name": "synternet",
+  "api": ["https://api.synternet.com/"],
+  "rpc": ["https://rpc.synternet.com/"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.8",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "synt",
+  "logo": "/logos/synt.png",
+  "theme_color": "#D416A2",
+  "assets": [{
+    "base": "usynt",
+    "symbol": "SYNT",
+    "exponent": "6",
+    "coingecko_id": "synternet-synt",
+    "logo": "/logos/synt.png"
+  }]
+}

@@ -1,0 +1,31 @@
+{
+  "chain_name": "Furya",
+  "coingecko": "",
+  "api": [
+    "https://api.furya.chaintools.tech:443",
+    "https://api.furya.xyz:443",
+    "https://furya-api.synergynodes.com",
+    "https://furya.api.nodeshub.online"
+  ],
+  "rpc": [
+    "https://rpc.furya.chaintools.tech:443",
+    "https://rpc.furya.xyz:443",
+    "https://furya-rpc.synergynodes.com",
+    "https://furya.rpc.nodeshub.online:443"
+  ],
+  "snapshot_provider": "",
+  "coin_type": "118",
+  "sdk_version": "0.46.8",
+  "addr_prefix": "furya",
+  "logo": "/logos/furya.png",
+  "theme_color": "#E2E841",
+  "assets": [
+    {
+      "base": "ufury",
+      "symbol": "FURY",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/furya.png"
+    }
+  ]
+}

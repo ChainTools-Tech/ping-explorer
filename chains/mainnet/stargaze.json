@@ -1,0 +1,19 @@
+{
+  "chain_name": "stargaze",
+  "coingecko": "stargaze",
+  "api": ["https://rest.stargaze-apis.com"],
+  "rpc": ["https://rpc.stargaze-apis.com"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.0",
+  "coin_type": "234",
+  "min_tx_fee": "8000",
+  "addr_prefix": "star",
+  "logo": "/logos/stargaze.png",
+  "assets": [{
+    "base": "ustars",
+    "symbol": "STARS",
+    "exponent": "6",
+    "coingecko_id": "stargaze",
+    "logo": "/logos/stargaze.png"
+  }]
+}

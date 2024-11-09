@@ -1,0 +1,19 @@
+{
+  "chain_name": "kyve",
+  "api": ["https://api-eu-1.kyve.network:443", "https://rest-kyve.ecostake.com:443"],
+  "rpc": ["https://rpc-eu-1.kyve.network:443", "https://rpc-kyve.ecostake.com:443"],
+  "snapshot_provider": "https://rpc-cache.kyve.network:443",
+  "sdk_version": "0.45.6",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "kyve",
+  "logo": "/logos/kyve.svg",
+  "theme_color": "#3A6C65",
+  "assets": [{
+    "base": "ukyve",
+    "symbol": "KYVE",
+    "exponent": "6",
+    "coingecko_id": "kyve-network",
+    "logo": "/logos/kyve.svg"
+  }]
+}

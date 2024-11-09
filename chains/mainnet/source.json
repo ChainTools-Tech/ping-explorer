@@ -1,0 +1,19 @@
+{
+  "chain_name": "source",
+  "api": ["https://source.api.moonbridge.team:443","https://api.source.nodestake.top:443"],
+  "rpc": ["https://source.rpc.moonbridge.team:443","https://rpc.source.nodestake.top:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.15",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "source",
+  "logo": "/logos/source.svg",
+  "theme_color": "#A73FF3",
+  "assets": [{
+    "base": "usource",
+    "symbol": "SOURCE",
+    "exponent": "6",
+    "coingecko_id": "source",
+    "logo": "/logos/source.svg"
+  }]
+}

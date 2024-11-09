@@ -1,0 +1,20 @@
+{
+    "chain_name": "provenance",
+    "coingecko": "",
+    "api": ["https://api-provenance.takeshi.team","https://provenance_mainnet_api.chain.whenmoonwhenlambo.money","https://api.provenance.io"],
+    "rpc": ["https://rpc-provenance.takeshi.team","https://provenance_mainnet_rpc.chain.whenmoonwhenlambo.money","https://rpc.provenance.io:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "505",
+    "min_tx_fee": "800000000",
+    "addr_prefix": "pb",
+    "logo": "/logos/provenance.svg",
+    "theme_color": "#4B7BD4",
+    "assets": [{
+        "base": "nhash",
+        "symbol": "HASH",
+        "exponent": "9",
+        "coingecko_id": "provenance-blockchain", 
+        "logo": "/logos/provenance.svg"
+    }]
+}
