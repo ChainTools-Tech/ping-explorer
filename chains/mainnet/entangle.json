@@ -1,8 +1,8 @@
 {
   "chain_name": "entangle",
   "coingecko_id": "entangle",
-  "api": ["https://entangle-mainnet.api.stakevillage.net"],
-  "rpc": ["https://entangle-mainnet.rpc.stakevillage.net"],
+  "api": ["https://mainnet-entangle-api.konsortech.xyz","https://entangle-mainnet.api.stakevillage.net","https://entangle-rest.stakerhouse.com"],
+  "rpc": ["https://mainnet-entangle-rpc.konsortech.xyz","https://entangle-mainnet.rpc.stakevillage.net","https://entangle-rpc.stakerhouse.com"],
   "snapshot_provider": "",
   "sdk_version": "0.46.2",
   "coin_type": "60",
@@ -12,7 +12,7 @@
   "theme_color": "#A528E1",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
-    "base": "ngl",
+    "base": "angl",
     "symbol": "NGL",
     "exponent": 18,
     "coingecko_id": "entangle",
