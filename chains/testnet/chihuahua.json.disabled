@@ -7,14 +7,14 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "chihuahua",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/chihuahua.png",
+  "logo": "https://res.chaintools.tech/logos/chihuahua.png",
   "assets": [
     {
       "base": "uhuahua",
       "symbol": "HUAHUA",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/chihuahua.png"
+      "logo": "https://res.chaintools.tech/logos/chihuahua.png"
     }
   ]
 }

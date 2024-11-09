@@ -6,7 +6,7 @@
   "sdk_version": "0.45.14",
   "addr_prefix": "odin",
   "min_tx_fee": "500000",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/odin.png",
+  "logo": "https://res.chaintools.tech/logos/odin.png",
   "theme_color": "#F6F600",
   "assets": [
     {
@@ -14,7 +14,7 @@
       "base": "loki",
       "exponent": 6,
       "coingecko": "odin-protocol",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/odin.png"
+      "logo": "https://res.chaintools.tech/logos/odin.png"
     }
   ]
 }

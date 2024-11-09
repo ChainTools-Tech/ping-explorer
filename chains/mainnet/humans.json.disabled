@@ -7,7 +7,7 @@
   "coin_type": "60",
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "human",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/humans.jpg",
+  "logo": "https://res.chaintools.tech/logos/humans.jpg",
   "theme_color": "#24389A",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
@@ -15,6 +15,6 @@
     "symbol": "HEART",
     "exponent": "18",
     "coingecko_id": "humans-ai",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/humans.jpg"
+    "logo": "https://res.chaintools.tech/logos/humans.jpg"
   }]
 }

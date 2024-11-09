@@ -7,13 +7,13 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "kyve",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/kyve.svg",
+  "logo": "https://res.chaintools.tech/logos/kyve.svg",
   "theme_color": "#3A6C65",
   "assets": [{
     "base": "ukyve",
     "symbol": "KYVE",
     "exponent": "6",
     "coingecko_id": "kyve-network",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/kyve.svg"
+    "logo": "https://res.chaintools.tech/logos/kyve.svg"
   }]
 }

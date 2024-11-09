@@ -7,13 +7,13 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "kyve",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/teritori.svg",
+  "logo": "https://res.chaintools.tech/logos/teritori.svg",
   "theme_color": "#2C93F6",
   "assets": [{
     "base": "utori",
     "symbol": "TORI",
     "exponent": "6",
     "coingecko_id": "teritori",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/teritori.svg"
+    "logo": "https://res.chaintools.tech/logos/teritori.svg"
   }]
 }

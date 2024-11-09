@@ -8,12 +8,12 @@
   "coin_type": "234",
   "min_tx_fee": "8000",
   "addr_prefix": "star",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/stargaze.png",
+  "logo": "https://res.chaintools.tech/logos/stargaze.png",
   "assets": [{
     "base": "ustars",
     "symbol": "STARS",
     "exponent": "6",
     "coingecko_id": "stargaze",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/stargaze.png"
+    "logo": "https://res.chaintools.tech/logos/stargaze.png"
   }]
 }

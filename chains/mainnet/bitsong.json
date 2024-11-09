@@ -6,7 +6,7 @@
     "addr_prefix": "bitsong",
     "coin_type": "639",
     "min_tx_fee": "5000",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/bitsong.svg",
+    "logo": "https://res.chaintools.tech/logos/bitsong.svg",
     "theme_color": "#C52A78",
     "sdk_version": "0.45.6",
     "assets": [{
@@ -14,6 +14,6 @@
         "symbol": "BTSG",
         "exponent": "6",
         "coingecko_id": "bitsong", 
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/bitsong.svg"
+        "logo": "https://res.chaintools.tech/logos/bitsong.svg"
     }]
 }

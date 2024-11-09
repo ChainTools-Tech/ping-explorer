@@ -8,13 +8,13 @@
   "coin_type": "118",
   "min_tx_fee": "500",
   "addr_prefix": "centauri",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/composable.jpg",
+  "logo": "https://res.chaintools.tech/logos/composable.jpg",
   "assets": [{
     "base": "ppica",
     "symbol": "PICA",
     "exponent": "12",
     "coingecko_id": "",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/composable.jpg"
+    "logo": "https://res.chaintools.tech/logos/composable.jpg"
   }
   ]
 }

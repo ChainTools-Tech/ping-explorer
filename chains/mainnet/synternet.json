@@ -7,13 +7,13 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "synt",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/synt.png",
+  "logo": "https://res.chaintools.tech/logos/synt.png",
   "theme_color": "#D416A2",
   "assets": [{
     "base": "usynt",
     "symbol": "SYNT",
     "exponent": "6",
     "coingecko_id": "synternet-synt",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/synt.png"
+    "logo": "https://res.chaintools.tech/logos/synt.png"
   }]
 }

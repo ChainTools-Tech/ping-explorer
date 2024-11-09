@@ -9,14 +9,14 @@
   "coin_type": "5555",
   "min_tx_fee": "25000000000000000",
   "addr_prefix": "und",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/unification.png",
+  "logo": "https://res.chaintools.tech/logos/unification.png",
   "theme_color": "#0089CD",
   "assets": [{
     "base": "nund",
     "symbol": "FUND",
     "exponent": "9",
     "coingecko_id": "unification",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/unification.png"
+    "logo": "https://res.chaintools.tech/logos/unification.png"
   }],
   "gasPriceStep": {
     "low": 100,

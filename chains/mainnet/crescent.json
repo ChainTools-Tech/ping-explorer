@@ -7,19 +7,19 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "cre",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/cre.png",
+    "logo": "https://res.chaintools.tech/logos/cre.png",
     "theme_color": "#90534D",
     "assets": [{
         "base": "ucre",
         "symbol": "CRE",
         "exponent": "6",
         "coingecko_id": "crescent-network",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/cre.png"
+        "logo": "https://res.chaintools.tech/logos/cre.png"
     },{
         "base": "ubcre",
         "symbol": "bCRE",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/cre.png"
+        "logo": "https://res.chaintools.tech/logos/cre.png"
     }]
 }

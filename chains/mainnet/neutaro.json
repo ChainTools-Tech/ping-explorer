@@ -8,7 +8,7 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "neutaro",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/neutaro.png",
+  "logo": "https://res.chaintools.tech/logos/neutaro.png",
   "theme_color": "#C3F305",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "symbol": "NEUTARO",
       "exponent": "6",
       "coingecko_id": "neutaro",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/neutaro.png"
+      "logo": "https://res.chaintools.tech/logos/neutaro.png"
     }
   ]
 }

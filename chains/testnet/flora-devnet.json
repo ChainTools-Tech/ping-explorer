@@ -7,12 +7,12 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "flrd",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/flora.png",
+  "logo": "https://res.chaintools.tech/logos/flora.png",
   "theme_color": "#66907D",
   "assets": [{
     "base": "uflrd",
     "symbol": "FLRD",
     "exponent": "6",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/flora.png"
+    "logo": "https://res.chaintools.tech/logos/flora.png"
   }]
 }

@@ -7,20 +7,20 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "terp",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/terp.png",
+  "logo": "https://res.chaintools.tech/logos/terp.png",
   "theme_color": "#2C93F6",
   "assets": [{
     "base": "uterp",
     "symbol": "TERP",
     "exponent": "6",
     "coingecko_id": "",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/terp.png"
+    "logo": "https://res.chaintools.tech/logos/terp.png"
   },
     {
       "base": "uthiol",
       "symbol": "THIOL",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/terp.png"
+      "logo": "https://res.chaintools.tech/logos/terp.png"
     }]
 }

@@ -7,7 +7,7 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "meme",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/nomic.png",
+  "logo": "https://res.chaintools.tech/logos/nomic.png",
   "theme_color": "#6000F6",
   "assets": [
     {
@@ -15,7 +15,7 @@
       "symbol": "NOM",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/nomic.png"
+      "logo": "https://res.chaintools.tech/logos/nomic.png"
     }
   ]
 }

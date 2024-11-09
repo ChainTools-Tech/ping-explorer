@@ -8,13 +8,13 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "nibi",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/nibiru.png",
+  "logo": "https://res.chaintools.tech/logos/nibiru.png",
   "theme_color": "#04CFCF",
   "assets": [{
     "base": "unibi",
     "symbol": "NIBI",
     "exponent": "6",
     "coingecko_id": "nibiru",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/nibiru.png"
+    "logo": "https://res.chaintools.tech/logos/nibiru.png"
   }]
 }

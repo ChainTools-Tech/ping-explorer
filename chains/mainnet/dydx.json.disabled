@@ -7,7 +7,7 @@
   "coin_type": "118",
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "dydx",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/dydx.png",
+  "logo": "https://res.chaintools.tech/logos/dydx.png",
   "theme_color": "#3E3C89",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
@@ -15,6 +15,6 @@
     "symbol": "dydx",
     "exponent": "18",
     "coingecko_id": "dydx",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/dydx.png"
+    "logo": "https://res.chaintools.tech/logos/dydx.png"
   }]
 }

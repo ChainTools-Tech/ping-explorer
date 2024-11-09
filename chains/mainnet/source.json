@@ -7,13 +7,13 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "source",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/source.svg",
+  "logo": "https://res.chaintools.tech/logos/source.svg",
   "theme_color": "#A73FF3",
   "assets": [{
     "base": "usource",
     "symbol": "SOURCE",
     "exponent": "6",
     "coingecko_id": "source",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/source.svg"
+    "logo": "https://res.chaintools.tech/logos/source.svg"
   }]
 }

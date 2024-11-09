@@ -11,7 +11,7 @@
   "coin_type": "118",
   "sdk_version": "0.47.8",
   "addr_prefix": "furya",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/furya.png",
+  "logo": "https://res.chaintools.tech/logos/furya.png",
   "theme_color": "#E2E841",
   "assets": [
     {
@@ -19,14 +19,14 @@
       "symbol": "FURY",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/furya.png"
+      "logo": "https://res.chaintools.tech/logos/furya.png"
     },
     {
       "base": "bfury",
       "symbol": "bFURY",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/furya.png",
+      "logo": "https://res.chaintools.tech/logos/furya.png",
       "stakeable": true
     }
   ]

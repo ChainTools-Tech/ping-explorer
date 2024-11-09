@@ -8,13 +8,13 @@
     "coin_type": "370",
     "min_tx_fee": "8000",
     "addr_prefix": "bze",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/beezee.png",
+    "logo": "https://res.chaintools.tech/logos/beezee.png",
     "theme_color": "#12AFD5",
     "assets": [{
         "base": "ubze",
         "symbol": "BZE",
         "exponent": "6",
         "coingecko_id": "bzedge",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/beezee.png"
+        "logo": "https://res.chaintools.tech/logos/beezee.png"
     }]
   }

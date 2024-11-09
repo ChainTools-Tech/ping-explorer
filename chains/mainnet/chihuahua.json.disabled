@@ -8,13 +8,13 @@
     "coin_type": "118",
     "min_tx_fee": "250000",
     "addr_prefix": "chihuahua",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/chihuahua.png",
+    "logo": "https://res.chaintools.tech/logos/chihuahua.png",
     "theme_color": "#F8D755",
     "assets": [{
         "base": "uhuahua",
         "symbol": "HUAHUA",
         "exponent": "6",
         "coingecko_id": "chihuahua-token",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/chihuahua.png"
+        "logo": "https://res.chaintools.tech/logos/chihuahua.png"
     }]
 }

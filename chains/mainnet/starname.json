@@ -7,12 +7,12 @@
   "coin_type": "234",
   "min_tx_fee": "8000",
   "addr_prefix": "star",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/starname.svg",
+  "logo": "https://res.chaintools.tech/logos/starname.svg",
   "assets": [{
     "base": "uiov",
     "symbol": "IOV",
     "exponent": "6",
     "coingecko_id": "starname",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/starname.svg"
+    "logo": "https://res.chaintools.tech/logos/starname.svg"
   }]
 }

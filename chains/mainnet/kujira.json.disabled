@@ -8,13 +8,13 @@
     "coin_type": "118",
     "min_tx_fee": "1250",
     "addr_prefix": "kujira",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/kujira.png",
+    "logo": "https://res.chaintools.tech/logos/kujira.png",
     "theme_color": "#667C89",
     "assets": [{
         "base": "ukuji",
         "symbol": "KUJI",
         "exponent": "6",
         "coingecko_id": "kujira",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/kujira.png"
+        "logo": "https://res.chaintools.tech/logos/kujira.png"
     }]
 }

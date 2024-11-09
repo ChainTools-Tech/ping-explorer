@@ -14,7 +14,7 @@
   "coin_type": 60,
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "shido",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/shido.png",
+  "logo": "https://res.chaintools.tech/logos/shido.png",
   "theme_color": "#0076F6",
   "keplr_price_step": {
     "low": 0,
@@ -26,6 +26,6 @@
     "symbol": "SHIDO",
     "exponent": 18,
     "coingecko_id": "shido-2",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/shido.png"
+    "logo": "https://res.chaintools.tech/logos/shido.png"
   }]
 }

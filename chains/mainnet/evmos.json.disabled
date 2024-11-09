@@ -7,7 +7,7 @@
     "coin_type": "60",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "evmos",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/evmos.png",
+    "logo": "https://res.chaintools.tech/logos/evmos.png",
     "theme_color": "#ed4e33",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "evmos",
         "exponent": "18",
         "coingecko_id": "evmos",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/evmos.jpeg"
+        "logo": "https://res.chaintools.tech/logos/evmos.jpeg"
     }]
 }

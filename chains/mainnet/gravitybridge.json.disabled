@@ -8,13 +8,13 @@
     "min_tx_fee": "5000",
     "addr_prefix": "gravity",
     "excludes": "",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/gravity-bridge.png",
+    "logo": "https://res.chaintools.tech/logos/gravity-bridge.png",
     "theme_color": "#0E021C",
     "assets": [{
         "base": "ugraviton",
         "symbol": "GRAVITON",
         "exponent": "6",
         "coingecko_id": "graviton",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/gravity-bridge.png"
+        "logo": "https://res.chaintools.tech/logos/gravity-bridge.png"
     }]
 }

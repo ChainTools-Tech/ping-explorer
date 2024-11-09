@@ -7,12 +7,12 @@
     "coin_type": "60",
     "min_tx_fee": "500",
     "addr_prefix": "cnho",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/cnho.png",
+    "logo": "https://res.chaintools.tech/logos/cnho.png",
     "assets": [{
         "base": "ucnho",
         "symbol": "CNHO",
         "exponent": "6",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/cnho.png"
+        "logo": "https://res.chaintools.tech/logos/cnho.png"
     }
     ]
 }

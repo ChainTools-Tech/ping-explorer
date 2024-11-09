@@ -7,13 +7,13 @@
     "coin_type": "118",
     "min_tx_fee": "8000",
     "addr_prefix": "ki",
-    "logo": "https://github.com/ChainTools-Tech/chain_logos/kichain.png",
+    "logo": "https://res.chaintools.tech/logos/kichain.png",
     "theme_color": "#0000F5",
     "assets": [{
         "base": "uxki",
         "symbol": "XKI",
         "exponent": "6",
         "coingecko_id": "ki",
-        "logo": "https://github.com/ChainTools-Tech/chain_logos/kichain.png"
+        "logo": "https://res.chaintools.tech/logos/kichain.png"
     }]
 }

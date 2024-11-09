@@ -11,7 +11,7 @@
   "coin_type": "118",
   "sdk_version": "0.46.8",
   "addr_prefix": "soar",
-  "logo": "https://github.com/ChainTools-Tech/chain_logos/soarchain.png",
+  "logo": "https://res.chaintools.tech/logos/soarchain.png",
   "theme_color": "#45C1F0",
   "assets": [
     {
@@ -19,7 +19,7 @@
       "symbol": "TSOAR",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://github.com/ChainTools-Tech/chain_logos/soarchain.png"
+      "logo": "https://res.chaintools.tech/logos/soarchain.png"
     }
   ]
 }
