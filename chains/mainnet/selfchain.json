@@ -8,13 +8,13 @@
   "coin_type": "118",
   "min_tx_fee": "3000",
   "addr_prefix": "slf",
-  "logo": "/logos/self.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/self.png",
   "theme_color": "#995DE5",
   "assets": [{
     "base": "uslf",
     "symbol": "SLF",
     "exponent": "6",
     "coingecko_id": "self-chain",
-    "logo": "/logos/self.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/self.png"
   }]
 }

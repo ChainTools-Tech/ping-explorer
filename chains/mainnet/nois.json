@@ -5,14 +5,14 @@
   "sdk_version": "0.45.14",
   "addr_prefix": "nois",
   "min_tx_fee": "5000",
-  "logo": "/logos/nois.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/nois.png",
   "theme_color": "#0B0912",
   "assets": [
     {
       "symbol": "NOIS",
       "base": "unois",
       "exponent": 6,
-      "logo": "/logos/nois.png"
+      "logo": "https://github.com/ChainTools-Tech/chain_logos/nois.png"
     }
   ]
 }

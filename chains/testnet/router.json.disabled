@@ -7,13 +7,13 @@
     "coin_type": "60",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "router",
-    "logo": "/logos/router.png",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/router.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "route",
         "symbol": "ROUTE",
         "exponent": "18",
         "coingecko_id": "route",
-        "logo": "/logos/router.png"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/router.png"
     }]
 }

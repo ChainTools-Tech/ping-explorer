@@ -7,13 +7,13 @@
     "coin_type": "118",
     "min_tx_fee": "8000",
     "addr_prefix": "sent",
-    "logo": "/logos/sentinel.png",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/sentinel.png",
     "theme_color": "#0F9AE4",
     "assets": [{
         "base": "udvpn",
         "symbol": "DVPN",
         "exponent": "6",
         "coingecko_id": "sentinel", 
-        "logo": "/logos/sentinel.png"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/sentinel.png"
     }]
 }

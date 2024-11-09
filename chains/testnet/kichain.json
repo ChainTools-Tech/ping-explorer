@@ -10,8 +10,8 @@
     "symbol": "TKI",
     "exponent": "6",
     "coingecko_id": "ki",
-    "logo": "/logos/kichain.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/kichain.png"
   }],
   "addr_prefix": "tki",
-  "logo": "/logos/kichain.png"
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/kichain.png"
 }

@@ -7,7 +7,7 @@
     "coin_type": 118,
     "min_tx_fee": "8000",
     "addr_prefix": "quasar",
-    "logo": "/logos/quasar.png",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/quasar.png",
     "theme_color": "#6C88EC",
     "assets": [
       {
@@ -15,7 +15,7 @@
         "symbol": "QSR",
         "exponent": 6,
         "coingecko_id": "",
-        "logo": "/logos/quasar.png"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/quasar.png"
       }
     ]
 }

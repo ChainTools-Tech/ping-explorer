@@ -18,7 +18,7 @@
   "coin_type": 60,
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "acre",
-  "logo": "/logos/acre.jpg",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/acre.jpg",
   "theme_color": "#529573",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "keplr_price_step": {
@@ -31,6 +31,6 @@
     "symbol": "ACRE",
     "exponent": 18,
     "coingecko_id": "arable-protocol",
-    "logo": "/logos/acre.jpg"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/acre.jpg"
   }]
 }

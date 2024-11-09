@@ -7,7 +7,7 @@
   "coin_type": "60",
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "xpla",
-  "logo": "/logos/xpla.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/xpla.png",
   "theme_color": "#00ABF6",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
   "assets": [{
@@ -15,6 +15,6 @@
     "symbol": "xpla",
     "exponent": "18",
     "coingecko_id": "xpla",
-    "logo": "/logos/xpla.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/xpla.png"
   }]
 }

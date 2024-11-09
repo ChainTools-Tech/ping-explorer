@@ -8,13 +8,13 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "lava",
-  "logo": "/logos/lava.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/lava.png",
   "theme_color": "#ff433e",
   "assets": [{
     "base": "ulava",
     "symbol": "LAVA",
     "exponent": "6",
     "coingecko_id": "lava-network",
-    "logo": "/logos/lava.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/lava.png"
   }]
 }

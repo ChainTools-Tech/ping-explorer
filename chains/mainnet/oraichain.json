@@ -6,7 +6,7 @@
   "sdk_version": "0.45.14",
   "addr_prefix": "orai",
   "min_tx_fee": "500000",
-  "logo": "/logos/oraichain.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/oraichain.png",
   "theme_color": "#6D3FB8",
   "assets": [
     {
@@ -14,7 +14,7 @@
       "base": "orai",
       "exponent": 6,
       "coingecko": "oraichain-token",
-      "logo": "/logos/oraichain.png"
+      "logo": "https://github.com/ChainTools-Tech/chain_logos/oraichain.png"
     }
   ]
 }

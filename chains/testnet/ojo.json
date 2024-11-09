@@ -13,12 +13,12 @@
   "coin_type": "118",
   "min_tx_fee": "8000",
   "addr_prefix": "ojo",
-  "logo": "/logos/ojo.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/ojo.png",
   "assets": [{
     "base": "uojo",
     "symbol": "OJO",
     "exponent": "6",
     "coingecko_id": "ojo",
-    "logo": "/logos/ojo.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/ojo.png"
   }]
 }

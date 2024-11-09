@@ -6,13 +6,13 @@
   "addr_prefix": "mantle",
   "coin_type": "118",
   "min_tx_fee": "5000",
-  "logo": "/logos/assetmantle.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/assetmantle.png",
   "sdk_version": "0.46.14",
   "assets": [{
     "base": "umntl",
     "symbol": "MNTL",
     "exponent": "6",
     "coingecko_id": "assetmantle",
-    "logo": "/logos/assetmantle.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/assetmantle.png"
   }]
 }

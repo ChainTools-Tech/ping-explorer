@@ -8,13 +8,13 @@
     "coin_type": "880",
     "min_tx_fee": "5000",
     "addr_prefix": "lum",
-    "logo": "/logos/lum-network.png",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/lum-network.png",
     "theme_color": "#B3B3B3",
     "assets": [{
         "base": "ulum",
         "symbol": "LUM",
         "exponent": "6",
         "coingecko_id": "lum-network", 
-        "logo": "/logos/lum-network.png"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/lum-network.png"
     }]
 }

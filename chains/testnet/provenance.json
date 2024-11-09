@@ -5,12 +5,12 @@
     "addr_prefix": "tp",   
     "coin_type": "505",
     "min_tx_fee": "400000000",
-    "logo": "/logos/provenance.svg",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/provenance.svg",
     "assets": [{
         "base": "nhash",
         "symbol": "HASH",
         "exponent": "9",
         "coingecko_id": "", 
-        "logo": "/logos/provenance.svg"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/provenance.svg"
     }]
 }

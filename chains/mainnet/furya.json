@@ -17,7 +17,7 @@
   "coin_type": "118",
   "sdk_version": "0.46.8",
   "addr_prefix": "furya",
-  "logo": "/logos/furya.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/furya.png",
   "theme_color": "#E2E841",
   "assets": [
     {
@@ -25,7 +25,7 @@
       "symbol": "FURY",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "/logos/furya.png"
+      "logo": "https://github.com/ChainTools-Tech/chain_logos/furya.png"
     }
   ]
 }

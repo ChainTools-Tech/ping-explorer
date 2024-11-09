@@ -7,12 +7,12 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "kopi",
-  "logo": "/logos/kopi.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/kopi.png",
   "theme_color": "#aed878",
   "assets": [{
     "base": "ukopi",
     "symbol": "KOPI",
     "exponent": "6",
-    "logo": "/logos/kopi.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/kopi.png"
   }]
 }

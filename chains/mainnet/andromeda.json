@@ -6,13 +6,13 @@
   "addr_prefix": "andr",
   "coin_type": "118",
   "min_tx_fee": "5000",
-  "logo": "/logos/andromeda.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/andromeda.png",
   "sdk_version": "0.47.8",
   "assets": [{
     "base": "uandr",
     "symbol": "ANDR",
     "exponent": "6",
     "coingecko_id": "andromeda-2",
-    "logo": "/logos/andromeda.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/andromeda.png"
   }]
 }

@@ -8,13 +8,13 @@
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "juno",
-    "logo": "/logos/juno.png",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/juno.png",
     "theme_color": "#905651",
     "assets": [{
         "base": "ujuno",
         "symbol": "JUNO",
         "exponent": "6",
         "coingecko_id": "juno-network",
-        "logo": "/logos/juno.png"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/juno.png"
     }]
 }

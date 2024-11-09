@@ -7,13 +7,13 @@
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "ixo",
-    "logo": "/logos/ixo.svg",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/ixo.svg",
     "theme_color": "#5FCFFA",
     "assets": [{
         "base": "uixo",
         "symbol": "IXO",
         "exponent": "6",
         "coingecko_id": "ixo",
-        "logo": "/logos/ixo.svg"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/ixo.svg"
     }]
 }

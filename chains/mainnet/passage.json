@@ -8,13 +8,13 @@
   "coin_type": "118",
   "min_tx_fee": "3000",
   "addr_prefix": "pasg",
-  "logo": "/logos/pasg.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/pasg.png",
   "theme_color": "#B2B2B2",
   "assets": [{
     "base": "upasg",
     "symbol": "PASG",
     "exponent": "6",
     "coingecko_id": "passage",
-    "logo": "/logos/pasg.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/pasg.png"
   }]
 }

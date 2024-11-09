@@ -6,7 +6,7 @@
   "addr_prefix": "cheqd",
   "coin_type": "118",
   "min_tx_fee": "5000",
-  "logo": "/logos/cheqd.png",
+  "logo": "https://github.com/ChainTools-Tech/chain_logos/cheqd.png",
   "theme_color": "#9D3120",
   "sdk_version": "0.46.10",
   "assets": [{
@@ -14,6 +14,6 @@
     "symbol": "CHEQ",
     "exponent": "9",
     "coingecko_id": "cheqd-network",
-    "logo": "/logos/cheqd.png"
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/cheqd.png"
   }]
 }

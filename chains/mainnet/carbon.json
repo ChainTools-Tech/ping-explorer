@@ -8,7 +8,7 @@
     "coin_type": "118",
     "min_tx_fee": "100000000",
     "addr_prefix": "swth",
-    "logo": "/logos/carbon.svg",
+    "logo": "https://github.com/ChainTools-Tech/chain_logos/carbon.svg",
     "theme_color": "#7BD3D5",
     "sign_opts": {
         "keplr": {
@@ -20,6 +20,6 @@
         "symbol": "SWTH",
         "exponent": "8",
         "coingecko_id": "switcheo", 
-        "logo": "/logos/carbon.svg"
+        "logo": "https://github.com/ChainTools-Tech/chain_logos/carbon.svg"
     }]
 }
