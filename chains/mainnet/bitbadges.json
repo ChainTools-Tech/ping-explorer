@@ -1,0 +1,26 @@
+{
+  "chain_name": "bitbadges",
+  "api": ["https://bitbadges_mainnet_api.chain.whenmoonwhenlambo.money"],
+  "rpc": ["https://bitbadges_mainnet_rpc.chain.whenmoonwhenlambo.money"],
+  "snapshot_provider": "",
+  "sdk_version": "0.44.3",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "bb",
+  "logo": "https://res.chaintools.tech/logos/bitbadges.png",
+  "theme_color": "#C91695",
+  "assets": [{
+    "base": "STAKE",
+    "symbol": "ustake",
+    "exponent": "9",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/bitbadges.png"
+  },{
+    "base": "BADGE",
+    "symbol": "ubadge",
+    "exponent": "9",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/bitbadges.png"
+  }
+  ]
+}
