@@ -9,12 +9,20 @@
   "addr_prefix": "bb",
   "logo": "https://res.chaintools.tech/logos/bitbadges.png",
   "theme_color": "#C91695",
-  "assets": [{
-    "base": "STAKE",
-    "symbol": "ustake",
-    "exponent": "9",
-    "coingecko_id": "",
-    "logo": "https://res.chaintools.tech/logos/bitbadges.png"
-  }
+  "assets": [
+    {
+      "base": "STAKE",
+      "symbol": "uSTAKE",
+      "exponent": "9",
+      "coingecko_id": "",
+      "logo": "https://res.chaintools.tech/logos/bitbadges.png"
+    },
+    {
+      "base": "BADGE",
+      "symbol": "uBADGE",
+      "exponent": "9",
+      "coingecko_id": "",
+      "logo": "https://res.chaintools.tech/logos/bitbadges.png"
+    }
   ]
 }
