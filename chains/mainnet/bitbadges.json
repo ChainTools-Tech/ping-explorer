@@ -11,15 +11,15 @@
   "theme_color": "#C91695",
   "assets": [
     {
-      "base": "STAKE",
-      "symbol": "uSTAKE",
+      "base": "stake",
+      "symbol": "ustake",
       "exponent": "9",
       "coingecko_id": "",
       "logo": "https://res.chaintools.tech/logos/bitbadges.png"
     },
     {
-      "base": "BADGE",
-      "symbol": "uBADGE",
+      "base": "badge",
+      "symbol": "ubadge",
       "exponent": "9",
       "coingecko_id": "",
       "logo": "https://res.chaintools.tech/logos/bitbadges.png"
