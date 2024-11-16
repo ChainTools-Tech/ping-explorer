@@ -1,8 +1,8 @@
 {
   "chain_name": "atomone",
   "coingecko": "",
-  "api": ["https://atomone_mainnet_api.chain.whenmoonwhenlambo.money"],
-  "rpc": ["https://atomone_mainnet_rpc.chain.whenmoonwhenlambo.money"],
+  "api": ["https://atomone-api.cogwheel.zone"],
+  "rpc": ["https://atomone-rpc.cogwheel.zone"],
   "snapshot_provider": "",
   "sdk_version": "0.45.9",
   "coin_type": "370",
