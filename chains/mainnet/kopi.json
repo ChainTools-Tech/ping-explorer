@@ -1,0 +1,18 @@
+{
+  "chain_name": "Kopi",
+  "api": ["https://api.kopi.chaintools.tech"],
+  "rpc": ["https://rpc.kopi.chaintools.tech"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "kopi",
+  "logo": "https://res.chaintools.tech/logos/kopi.png",
+  "theme_color": "#aed878",
+  "assets": [{
+    "base": "ukopi",
+    "symbol": "KOPI",
+    "exponent": "6",
+    "logo": "https://res.chaintools.tech/logos/kopi.png"
+  }]
+}
