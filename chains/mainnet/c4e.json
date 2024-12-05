@@ -1,0 +1,19 @@
+{
+  "chain_name": "Chain4Energy",
+  "api": ["https://lcd.c4e.io/"],
+  "rpc": ["https://rpc.c4e.io/"],
+  "snapshot_provider": "",
+  "sdk_version": "0.44.3",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "c4e",
+  "logo": "https://res.chaintools.tech/logos/c4e.png",
+  "theme_color": "#233149",
+  "assets": [{
+    "base": "uc4e",
+    "symbol": "C4E",
+    "exponent": "6",
+    "coingecko_id": "chain4energy",
+    "logo": "https://res.chaintools.tech/logos/c4e.png"
+  }]
+}
