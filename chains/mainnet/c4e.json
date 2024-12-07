@@ -8,7 +8,7 @@
   "min_tx_fee": "3000",
   "addr_prefix": "c4e",
   "logo": "https://res.chaintools.tech/logos/c4e.png",
-  "theme_color": "#233149",
+  "theme_color": "#597dba",
   "assets": [{
     "base": "uc4e",
     "symbol": "C4E",
