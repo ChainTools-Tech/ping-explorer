@@ -11,8 +11,8 @@
   "theme_color": "#C91695",
   "assets": [
     {
-      "base": "STAKE",
-      "symbol": "ustake",
+      "base": "ustake",
+      "symbol": "STAKE",
       "exponent": "9",
       "coingecko_id": "",
       "logo": "https://res.chaintools.tech/logos/bitbadges.png"
