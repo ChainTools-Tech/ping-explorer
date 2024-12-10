@@ -16,6 +16,13 @@
       "exponent": "9",
       "coingecko_id": "",
       "logo": "https://res.chaintools.tech/logos/bitbadges.png"
+    },
+    {
+      "base": "ubadge",
+      "symbol": "BADGE",
+      "exponent": "9",
+      "coingecko_id": "",
+      "logo": "https://res.chaintools.tech/logos/bitbadges.png"
     }
   ]
 }
