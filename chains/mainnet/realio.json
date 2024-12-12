@@ -11,11 +11,20 @@
   "logo": "https://res.chaintools.tech/logos/rio.png",
   "theme_color": "#013739",
   "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
-  "assets": [{
-    "base": "ario",
-    "symbol": "rio",
-    "exponent": "18",
-    "coingecko_id": "realio-network",
-    "logo": "https://res.chaintools.tech/logos/rio.png"
-  }]
+  "assets": [
+    {
+      "base": "ustake",
+      "symbol": "STAKE",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "https://res.chaintools.tech/logos/rio.png"
+    },
+    {
+      "base": "ario",
+      "symbol": "rio",
+      "exponent": "18",
+      "coingecko_id": "realio-network",
+      "logo": "https://res.chaintools.tech/logos/rio.png"
+    }
+  ]
 }
