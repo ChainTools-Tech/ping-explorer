@@ -8,12 +8,12 @@
   "coin_type": "118",
   "min_tx_fee": "500",
   "addr_prefix": "banksy",
-  "logo": "https://res.chaintools.tech/logos/composable.jpg",
+  "logo": "https://res.chaintools.tech/logos/pica.svg",
   "assets": [{
     "base": "ppica",
     "symbol": "PICA",
     "exponent": "12",
     "coingecko_id": "",
-    "logo": "https://res.chaintools.tech/logos/composable.jpg"
+    "logo": "https://res.chaintools.tech/logos/pica.svg"
   }]
 }
