@@ -1,5 +1,5 @@
 {
-  "chain_name": "Composable",
+  "chain_name": "Picasso",
   "api": ["https://picasso-api.polkachu.com"],
   "rpc": ["https://picasso-rpc.polkachu.com"],
   "coingecko": "",
