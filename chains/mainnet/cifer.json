@@ -1,0 +1,18 @@
+{
+  "chain_name": "cifer.ai",
+  "coingecko": "",
+  "rpc": ["http://34.128.114.243:26657"],
+  "api": ["https://api.cifer.ai"],
+  "addr_prefix": "cife",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "logo": "https://res.chaintools.tech/logos/cifer.png",
+  "sdk_version": "0.46.14",
+  "assets": [{
+    "base": "ucif",
+    "symbol": "CIF",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/cifer.png"
+  }]
+}
