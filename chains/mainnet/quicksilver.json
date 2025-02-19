@@ -1,0 +1,20 @@
+{
+  "chain_name": "quicksilver",
+  "coingecko": "quicksilver",
+  "api": ["https://lcd.quicksilver.zone:443","https://quick.api.m.stavr.tech"],
+  "rpc": ["https://rpc.quicksilver.zone:443","http://quick.rpc.m.stavr.tech:21027"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.9",
+  "coin_type": "370",
+  "min_tx_fee": "8000",
+  "addr_prefix": "quick",
+  "logo": "https://res.chaintools.tech/logos/quicksilver.png",
+  "theme_color": "#BABABA",
+  "assets": [{
+    "base": "uqck",
+    "symbol": "QCK",
+    "exponent": "6",
+    "coingecko_id": "quicksilver",
+    "logo": "https://res.chaintools.tech/logos/quicksilver.png"
+  }]
+}
