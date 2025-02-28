@@ -1,22 +1,22 @@
 {
-  "chain_name": "lava",
+  "chain_name": "odiseo",
   "api": [
-    "https://public-rpc.lavanet.xyz/rest"
+    "https://testnet-api.daodiseo.chaintools.tech"
   ],
   "rpc": [
-    "https://public-rpc.lavanet.xyz"
+    "https://testnet-rpc.daodiseo.chaintools.tech"
   ],
   "coin_type": "118",
   "sdk_version": "0.46.7",
-  "addr_prefix": "lava",
+  "addr_prefix": "odiseo",
   "min_tx_fee": "0",
   "logo": "https://res.chaintools.tech/logos/lava.png",
   "assets": [
     {
-      "symbol": "LAVA",
-      "base": "ulava",
+      "symbol": "DIS",
+      "base": "uodis",
       "exponent": 6,
-      "coingecko_id": "elys",
+      "coingecko_id": "",
       "logo": "https://res.chaintools.tech/logos/lava.png"
     }
   ]
