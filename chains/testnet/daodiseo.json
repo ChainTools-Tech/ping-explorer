@@ -10,14 +10,14 @@
   "sdk_version": "0.46.7",
   "addr_prefix": "odiseo",
   "min_tx_fee": "0",
-  "logo": "https://res.chaintools.tech/logos/lava.png",
+  "logo": "https://res.chaintools.tech/logos/daodiseo.jpg",
   "assets": [
     {
       "symbol": "ODIS",
       "base": "uodis",
       "exponent": 6,
       "coingecko_id": "",
-      "logo": "https://res.chaintools.tech/logos/lava.png"
+      "logo": "https://res.chaintools.tech/logos/daodiseo.jpg"
     }
   ]
 }
