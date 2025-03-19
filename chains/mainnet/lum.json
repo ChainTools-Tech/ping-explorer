@@ -1,8 +1,8 @@
 {
     "chain_name": "lum-network",
     "coingecko": "lum-network",
-    "api": ["https://lumnetwork-api.lavenderfive.com","https://node0.mainnet.lum.network/rest"],
-    "rpc": ["https://lumnetwork-rpc.lavenderfive.com:443","https://node0.mainnet.lum.network:443/rpc"],
+    "api": ["https://lumnetwork_mainnet_api.chain.whenmoonwhenlambo.money"],
+    "rpc": ["https://lumnetwork_mainnet_rpc.chain.whenmoonwhenlambo.money"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
     "coin_type": "880",
