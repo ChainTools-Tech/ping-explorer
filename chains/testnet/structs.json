@@ -10,7 +10,7 @@
   "logo": "https://res.chaintools.tech/logos/structs.png",
   "theme_color": "#AD1760",
   "assets": [{
-    "base": "alpha",
+    "base": "ualpha",
     "symbol": "ALPHA",
     "exponent": "6",
     "logo": "https://res.chaintools.tech/logos/structs.png"
