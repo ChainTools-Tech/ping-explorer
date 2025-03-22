@@ -1,0 +1,20 @@
+{
+  "chain_name": "SelfChain",
+  "coingecko": "self-chain",
+  "api": ["https://testnet-api.selfchain.chaintools.tech:443"],
+  "rpc": ["https://testnet-rpc.selfchain.chaintools.tech:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "slf",
+  "logo": "https://res.chaintools.tech/logos/self.png",
+  "theme_color": "#995DE5",
+  "assets": [{
+    "base": "uslf",
+    "symbol": "SLF",
+    "exponent": "6",
+    "coingecko_id": "self-chain",
+    "logo": "https://res.chaintools.tech/logos/self.png"
+  }]
+}
