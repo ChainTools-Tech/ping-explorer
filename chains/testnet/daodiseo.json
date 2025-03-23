@@ -18,6 +18,11 @@
       "exponent": 6,
       "coingecko_id": "",
       "logo": "https://res.chaintools.tech/logos/daodiseo.jpg"
+    }],
+  "faucet": {
+      "amount": "2000000uodis",
+      "ip_limit": "1",
+      "address_limit": "2",
+      "fees": "5000uodis"
     }
-  ]
 }
