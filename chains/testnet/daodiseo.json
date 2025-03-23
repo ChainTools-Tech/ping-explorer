@@ -1,10 +1,16 @@
 {
   "chain_name": "odiseo",
   "api": [
-    "https://testnet-api.daodiseo.chaintools.tech"
+    {
+      "address": "https://testnet-api.daodiseo.chaintools.tech",
+      "provider": "ChainTools"
+    }
   ],
   "rpc": [
-    "https://testnet-rpc.daodiseo.chaintools.tech"
+    {
+      "address": "https://testnet-rpc.daodiseo.chaintools.tech",
+      "provider": "ChainTools"
+    }
   ],
   "coin_type": "118",
   "sdk_version": "0.46.7",
