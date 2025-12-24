@@ -1,8 +1,8 @@
 {
     "chain_name": "lumen",
     "coingecko": "",
-    "api": ["http://142.132.201.187:1317"],
-    "rpc": ["http://142.132.201.187:26657"],
+    "api": ["https://api.lumen.chaintools.tech:443"],
+    "rpc": ["https://rpc.lumen.chaintools.tech:443"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
     "coin_type": "880",
