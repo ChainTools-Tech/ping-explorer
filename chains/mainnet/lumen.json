@@ -5,7 +5,7 @@
     "rpc": ["https://rpc.lumen.chaintools.tech:443"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
-    "coin_type": "880",
+    "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "lmn",
     "logo": "https://res.chaintools.tech/logos/lumen.png",
