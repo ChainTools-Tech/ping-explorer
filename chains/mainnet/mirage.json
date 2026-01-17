@@ -1,0 +1,37 @@
+{
+  "chain_name": "mirage",
+  "api": [
+    {
+      "address": "https://mirage.talk/chain/rest",
+      "provider": "Mirage Foundation"
+    },
+    {
+      "address": "https://mirage.vote/chain/rest",
+      "provider": "Mirage Foundation"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://mirage.talk/chain/rpc",
+      "provider": "Mirage Foundation"
+    },
+    {
+      "address": "https://mirage.vote/chain/rpc",
+      "provider": "Mirage Foundation"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "10",
+  "theme_color": "#3b82f6",
+  "assets": [{
+    "base": "umirage",
+    "symbol": "MIRAGE",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/mirage.png"
+  }],
+  "addr_prefix": "mirage",
+  "logo": "https://res.chaintools.tech/logos/mirage.png"
+}
