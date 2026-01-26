@@ -1,6 +1,6 @@
 {
-  "chain_name": "lumen",
-  "coingecko": "",
+  "chain_name": "cysic",
+  "coingecko": "cysic",
   "api": ["https://rest.cysic.xyz:443"],
   "rpc": ["https://rpc.cysic.xyz:443"],
   "snapshot_provider": "",
@@ -14,7 +14,7 @@
     "base": "ucys",
     "symbol": "CYS",
     "exponent": "6",
-    "coingecko_id": "",
+    "coingecko_id": "cysic",
     "logo": "https://res.chaintools.tech/logos/cysic.png"
   }]
 }
