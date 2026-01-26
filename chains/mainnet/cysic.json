@@ -10,11 +10,18 @@
   "addr_prefix": "cysic",
   "logo": "https://res.chaintools.tech/logos/cysic.png",
   "theme_color": "#62D4CF",
-  "assets": [{
-    "base": "ucys",
-    "symbol": "CYS",
-    "exponent": "6",
-    "coingecko_id": "cysic",
-    "logo": "https://res.chaintools.tech/logos/cysic.png"
-  }]
+  "assets": [
+    {
+      "base": "ucys",
+      "symbol": "CYS",
+      "exponent": "6",
+      "coingecko_id": "cysic",
+      "logo": "https://res.chaintools.tech/logos/cysic.png}"
+    },
+    {
+      "base": "ucgt",
+      "symbol": "CGT",
+      "exponent": "6"
+    }
+  ]
 }
