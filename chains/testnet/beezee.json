@@ -10,7 +10,7 @@
     "addr_prefix": "bze",
     "logo": "https://assets.coingecko.com/coins/images/7814/large/BZEdge_Color_icon.png",
     "assets": [{
-        "base": "ubz",
+        "base": "ubze",
         "symbol": "BZE",
         "exponent": "6",
         "coingecko_id": "bzedge",
