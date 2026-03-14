@@ -4,12 +4,36 @@
     {
       "address": "https://api.hippo-protocol.com",
       "provider": "hippo-protocol.com"
+    },
+    {
+      "address": "https://hippo.api.nodeshub.online",
+      "provider": "NodesHub"
+    },
+    {
+      "address": "https://hippo-api.node39.top:443",
+      "provider": "Node39"
+    },
+    {
+      "address": "https://hippo-mainnet-api.shazoes.xyz",
+      "provider": "Shazoes"
     }
   ],
   "rpc": [
     {
       "address": "https://rpc.hippo-protocol.com",
       "provider": "hippo-protocol.com"
+    },
+    {
+      "address": "https://hippo.rpc.nodeshub.online:443",
+      "provider": "NodesHub"
+    },
+    {
+      "address": "https://hippo-rpc.node39.top:443",
+      "provider": "Node39"
+    },
+    {
+      "address": "https://hippo-mainnet-rpc.shazoes.xyz",
+      "provider": "Shazoes"
     }
   ],
   "snapshot_provider": "",
