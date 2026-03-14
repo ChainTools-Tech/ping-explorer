@@ -1,7 +1,33 @@
 {
     "chain_name": "medibloc",
-    "api": ["https://panacea-rest.staketab.org","https://api.gopanacea.org:443"],
-    "rpc": ["https://panacea-rpc.staketab.org:443","https://rpc.gopanacea.org:443"],
+    "api": [
+        {
+            "address": "https://api.gopanacea.org",
+            "provider": "medibloc"
+        },
+        {
+            "address": "https://panacea-rest.staketab.org",
+            "provider": "Staketab"
+        },
+        {
+            "address": "https://panacea_mainnet_api.chain.whenmoonwhenlambo.money",
+            "provider": "🚀 WHEN MOON 🌕 WHEN LAMBO 🔥"
+        }
+    ],
+    "rpc": [
+        {
+            "address": "https://rpc.gopanacea.org",
+            "provider": "medibloc"
+        },
+        {
+            "address": "https://panacea-rpc.staketab.org:443",
+            "provider": "Staketab"
+        },
+        {
+            "address": "https://panacea_mainnet_rpc.chain.whenmoonwhenlambo.money",
+            "provider": "🚀 WHEN MOON 🌕 WHEN LAMBO 🔥"
+        }
+    ],
     "snapshot_provider": "",
     "sdk_version": "v0.42.9",
     "coin_type": "118",
