@@ -1,0 +1,30 @@
+{
+  "chain_name": "intento",
+  "api": [
+    {
+      "address": "https://lcd-mainnet.intento.zone",
+      "provider": "Intento Zone"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc-mainnet.intento.zone",
+      "provider": "Intento Zone"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.50.13",
+  "coin_type": "0",
+  "min_tx_fee": "10000",
+  "addr_prefix": "into",
+  "logo": "https://res.chaintools.tech/logos/intento.png",
+  "assets": [
+    {
+      "base": "uinto",
+      "symbol": "INTO",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "https://res.chaintools.tech/logos/intento.png"
+    }
+  ]
+}
