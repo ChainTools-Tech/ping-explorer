@@ -1,7 +1,7 @@
 {
   "chain_name": "terp",
-  "api": ["https://api-terp.zenchainlabs.io:443","https://terp-mainnet-api.itrocket.net:443"],
-  "rpc": ["https://rpc-terp.zenchainlabs.io/","https://terp-mainnet-rpc.itrocket.net:443"],
+  "api": ["https://api.terp.chaintools.tech:443"],
+  "rpc": ["https://rpc.terp.chaintools.tech:443"],
   "snapshot_provider": "",
   "sdk_version": "0.45.10",
   "coin_type": "118",
