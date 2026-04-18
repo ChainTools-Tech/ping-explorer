@@ -1,8 +1,8 @@
 {
   "chain_name": "bitcanna",
   "coingecko": "bitcanna",
-  "api": ["https://lcd.bitcanna.io:443"],
-  "rpc": ["https://rpc.bitcanna.io:443"],
+  "api": ["https://api.bitcanna.chaintools.tech:443"],
+  "rpc": ["https://rpc.bitcanna.chaintools.tech:443"],
   "addr_prefix": "bcna",
   "coin_type": "118",
   "min_tx_fee": "5000",
