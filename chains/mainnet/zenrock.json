@@ -2,11 +2,19 @@
   "chain_name": "zenrock",
   "api": [
     {
+      "address": "https://api.zenrock.chaintools.tech/",
+      "provider": "ChainTools"
+    },
+    {
       "address": "https://api.diamond.zenrocklabs.io/",
       "provider": "zenrock"
     }
   ],
   "rpc": [
+    {
+      "address": "https://rpc.zenrock.chaintools.tech/",
+      "provider": "ChainTools"
+    },
     {
       "address": "https://rpc.diamond.zenrocklabs.io/",
       "provider": "zenrock"
