@@ -6,7 +6,7 @@
   "sdk_version": "0.45.9",
   "coin_type": "118",
   "min_tx_fee": "8000",
-  "addr_prefix": "meme",
+  "addr_prefix": "nomic",
   "logo": "https://res.chaintools.tech/logos/nomic.png",
   "theme_color": "#6000F6",
   "assets": [
