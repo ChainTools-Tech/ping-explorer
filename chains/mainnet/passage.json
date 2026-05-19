@@ -1,8 +1,8 @@
 {
   "chain_name": "passage",
   "coingecko": "passage",
-  "api": ["https://rest-passage.ecostake.com"],
-  "rpc": ["https://rpc-passage.ecostake.com"],
+  "api": ["https://api.passage.chaintools.tech/"],
+  "rpc": ["https://rpc.passage.chaintools.tech/"],
   "snapshot_provider": "",
   "sdk_version": "0.46.1",
   "coin_type": "118",
